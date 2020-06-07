@@ -12,7 +12,7 @@ To create a heading, add one to six # symbols before your heading text. The numb
 You can indicate emphasis with bold, italic, or strikethrough text.
 
 | Style | Syntax | Keyboard shortcut | Example	Output |
-| --- | --- |
+| --- | --- | --- | --- |
 | Bold | ** ** or __ __ command/control + b | **This is bold text** | This is bold text |
 | Italic | * * or _ _	command/control + i | *This text is italicized* | This text is italicized |
 
