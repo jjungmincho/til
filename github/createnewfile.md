@@ -8,3 +8,6 @@ You need to download Github Desktop in order to clone repositories locally.
 5. Click "Fetch origin"
 6. Click "Commit to master" if necessary
 7. Click "Pull origin"
+
+## Reference
+[GitHub Tutorial 2020 - Beginner's Training Guide](https://www.youtube.com/watch?v=iv8rSLsi1xo)
