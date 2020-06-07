@@ -11,10 +11,10 @@ To create a heading, add one to six # symbols before your heading text. The numb
 ## Styling text
 You can indicate emphasis with bold, italic, or strikethrough text.
 
-|   Style   |   Syntax  |   Keyboard shortcut   |   Example	Output  |
-| ---   |   --- |
-|   Bold    |   ** ** or __ __	command/control + b |	**This is bold text**   |   This is bold text   |
-|   Italic  |	* * or _ _	command/control + i	    |*This text is italicized*	|   This text is italicized |
+| Style | Syntax | Keyboard shortcut | Example	Output |
+| --- | --- |
+| Bold | ** ** or __ __ command/control + b | **This is bold text** | This is bold text |
+| Italic | * * or _ _	command/control + i | *This text is italicized* | This text is italicized |
 
 * ***Make sure to add extension (eg .md) at the end of the file name***
 
