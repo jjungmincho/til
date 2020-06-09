@@ -28,6 +28,7 @@ Today I Learned...
 - [Visual Studio Code](https://github.com/jessicajc1003/til/tree/master/vscode)
 
   - [How to Start?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
+  - [How to view the markdown preview?](https://github.com/jessicajc1003/til/blob/master/vscode/mark-down-preview.md)
 
 ---
 
