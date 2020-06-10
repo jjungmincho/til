@@ -14,6 +14,8 @@ Today I Learned...
 - [CSS](https://github.com/jessicajc1003/til/tree/master/css)
 
   - [How to write a note in CSS?](https://github.com/jessicajc1003/til/blob/master/css/tip.md)
+  - [What are Pseudo-classes?](https://github.com/jessicajc1003/til/blob/master/css/pseudo-selectors.md)
+  - [Inline vs Block vs Inline Block](https://github.com/jessicajc1003/til/blob/master/css/box-display.md)
 
 - [Github](https://github.com/jessicajc1003/til/tree/master/github)
 
