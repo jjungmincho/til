@@ -1,4 +1,4 @@
-## Inline vs Block vs Inline Block
+# Inline vs Block vs Inline Block
 
 ```css
 .box {
