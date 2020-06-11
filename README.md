@@ -26,10 +26,13 @@ Today I Learned...
   - [What is Meta tag?](https://github.com/jessicajc1003/til/blob/master/html/meta_tag.md)
   - [What is index.html?](https://github.com/jessicajc1003/til/blob/master/html/format.md)
   - [Example of CSS Selectors and Pseudo Selectors](https://github.com/jessicajc1003/til/blob/master/html/index.html)
+  - [.DS_Store .gitignore](https://github.com/jessicajc1003/til/blob/master/html/.gitignore.md)
+  - [When to use underscore(\_\_) symbol?](https://github.com/jessicajc1003/til/blob/master/html/parent-child.md)
+  - [When to use a global class?](https://github.com/jessicajc1003/til/blob/master/html/globalImg.md)
 
 - [Visual Studio Code](https://github.com/jessicajc1003/til/tree/master/vscode)
 
-  - [How to Start?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
+  - [How to Start VS Code?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
   - [How to view the markdown preview?](https://github.com/jessicajc1003/til/blob/master/vscode/mark-down-preview.md)
 
 ---
