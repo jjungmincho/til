@@ -37,17 +37,20 @@ Today I Learned...
 ### JavaScript
 
 - [Array](https://github.com/jessicajc1003/til/blob/master/javascript/array.md)
+- [Boolean](https://github.com/jessicajc1003/til/blob/master/javascript/boolean.md)
 - [Camel Case](https://github.com/jessicajc1003/til/blob/master/javascript/camel-case.md)
 - [DOM: Document Object Model](https://github.com/jessicajc1003/til/blob/master/javascript/dom.md)
 - [ECMAScript](https://github.com/jessicajc1003/til/blob/master/javascript/ecma.md)
 - [Events and event handlers](https://github.com/jessicajc1003/til/blob/master/javascript/event.md)
 - [if, else and or](https://github.com/jessicajc1003/til/blob/master/javascript/ifelse.md)
 - [Differences between library and framework](https://github.com/jessicajc1003/til/blob/master/javascript/library-framework.md)
-- [null](https://github.com/jessicajc1003/til/blob/master/javascript/null.md)
+- [Differences between null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
 - [Object](https://github.com/jessicajc1003/til/blob/master/javascript/object.md)
-- [toggle](https://github.com/jessicajc1003/til/blob/master/javascript/toggle.md)
+- [String](https://github.com/jessicajc1003/til/blob/master/javascript/string.md)
+- [Symbol](https://github.com/jessicajc1003/til/blob/master/javascript/symbol.md)
+- [Toggle](https://github.com/jessicajc1003/til/blob/master/javascript/toggle.md)
 - [VanillaJS](https://github.com/jessicajc1003/til/blob/master/javascript/vanillajs.md)
-- [let, const, var](https://github.com/jessicajc1003/til/blob/master/javascript/var.md)
+- [Let, const, var](https://github.com/jessicajc1003/til/blob/master/javascript/var.md)
 
 ### Visual Studio Code
 
