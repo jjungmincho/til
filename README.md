@@ -43,10 +43,12 @@ Today I Learned...
 - [ECMAScript](https://github.com/jessicajc1003/til/blob/master/javascript/ecma.md)
 - [Events and event handlers](https://github.com/jessicajc1003/til/blob/master/javascript/event.md)
 - [if, else and or](https://github.com/jessicajc1003/til/blob/master/javascript/ifelse.md)
-- [Differences between library and framework](https://github.com/jessicajc1003/til/blob/master/javascript/library-framework.md)
-- [Differences between null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
+- [Library and framework](https://github.com/jessicajc1003/til/blob/master/javascript/library-framework.md)
+- [Logical operators](https://github.com/jjessicacho/til/blob/master/javascript/logical-operators.md)
+- [Null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
 - [Object](https://github.com/jessicajc1003/til/blob/master/javascript/object.md)
 - [String](https://github.com/jessicajc1003/til/blob/master/javascript/string.md)
+- [Switch Statement](https://github.com/jjessicacho/til/blob/master/javascript/switch.md)
 - [Symbol](https://github.com/jessicajc1003/til/blob/master/javascript/symbol.md)
 - [Toggle](https://github.com/jessicajc1003/til/blob/master/javascript/toggle.md)
 - [VanillaJS](https://github.com/jessicajc1003/til/blob/master/javascript/vanillajs.md)
@@ -54,6 +56,7 @@ Today I Learned...
 
 ### Visual Studio Code
 
+- [File naming](https://github.com/jjessicacho/til/blob/master/vscode/file-naming.md)
 - [How to start VSCode?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
 - [How to view the markdown preview?](https://github.com/jessicajc1003/til/blob/master/vscode/mark-down-preview.md)
 
