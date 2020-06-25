@@ -14,11 +14,11 @@ Today I Learned...
 
 ### CSS
 
-- [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
 - [Inline vs Block vs Inline Block](https://github.com/jessicajc1003/til/blob/master/css/box-display.md)
+- [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
+- [How to write a note in CSS?](https://github.com/jessicajc1003/til/blob/master/css/tip.md)
 - [What are Pseudo-classes?](https://github.com/jessicajc1003/til/blob/master/css/pseudo-selectors.md)
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
-- [How to write a note in CSS?](https://github.com/jessicajc1003/til/blob/master/css/tip.md)
 
 ### Github
 
