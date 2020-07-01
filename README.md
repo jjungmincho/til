@@ -53,6 +53,8 @@ Today I Learned...
 - [Methods](https://github.com/jjessicacho/til/blob/master/javascript/methods.md)
 - [Null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
 - [Object](https://github.com/jessicajc1003/til/blob/master/javascript/object.md)
+- [Print](https://github.com/jjessicacho/til/blob/master/javascript/print.md)
+- [Promise](https://github.com/jjessicacho/til/blob/master/javascript/promise.md)
 - [String](https://github.com/jessicajc1003/til/blob/master/javascript/string.md)
 - [Switch Statement](https://github.com/jjessicacho/til/blob/master/javascript/switch.md)
 - [Symbol](https://github.com/jessicajc1003/til/blob/master/javascript/symbol.md)
