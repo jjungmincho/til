@@ -50,6 +50,7 @@ Today I Learned...
 - [if, else and or](https://github.com/jessicajc1003/til/blob/master/javascript/ifelse.md)
 - [Library and framework](https://github.com/jessicajc1003/til/blob/master/javascript/library-framework.md)
 - [Logical operators](https://github.com/jjessicacho/til/blob/master/javascript/logical-operators.md)
+- [Methods](https://github.com/jjessicacho/til/blob/master/javascript/methods.md)
 - [Null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
 - [Object](https://github.com/jessicajc1003/til/blob/master/javascript/object.md)
 - [String](https://github.com/jessicajc1003/til/blob/master/javascript/string.md)
