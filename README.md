@@ -49,6 +49,7 @@ Today I Learned...
 - [Getter and Setter](https://github.com/jjessicacho/til/blob/master/javascript/getter-setter.md)
 - [if, else and or](https://github.com/jessicajc1003/til/blob/master/javascript/ifelse.md)
 - [Library and framework](https://github.com/jessicajc1003/til/blob/master/javascript/library-framework.md)
+- [Limitation (What JS Cannot Do)](https://github.com/jjessicacho/til/blob/master/javascript/limitation.md)
 - [Logical operators](https://github.com/jjessicacho/til/blob/master/javascript/logical-operators.md)
 - [Methods](https://github.com/jjessicacho/til/blob/master/javascript/methods.md)
 - [Null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
