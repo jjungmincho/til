@@ -48,6 +48,8 @@ Today I Learned...
 - [Events and event handlers](https://github.com/jessicajc1003/til/blob/master/javascript/event.md)
 - [Getter and Setter](https://github.com/jjessicacho/til/blob/master/javascript/getter-setter.md)
 - [if, else and or](https://github.com/jessicajc1003/til/blob/master/javascript/ifelse.md)
+- [iterator](https://github.com/jjessicacho/til/blob/master/javascript/iterator.md)
+- [json](https://github.com/jjessicacho/til/blob/master/javascript/json.md)
 - [Library and framework](https://github.com/jessicajc1003/til/blob/master/javascript/library-framework.md)
 - [Limitation (What JS Cannot Do)](https://github.com/jjessicacho/til/blob/master/javascript/limitation.md)
 - [Logical operators](https://github.com/jjessicacho/til/blob/master/javascript/logical-operators.md)
