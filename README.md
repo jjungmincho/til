@@ -15,6 +15,7 @@ Today I Learned...
 ### CSS
 
 - [Inline vs Block vs Inline Block](https://github.com/jessicajc1003/til/blob/master/css/box-display.md)
+- [Carousel](https://github.com/jjessicacho/til/blob/master/css/carousel.md)
 - [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
 - [Folder Path](https://github.com/jjessicacho/til/blob/master/css/folder-path.md)
 - [How to write a note in CSS?](https://github.com/jessicajc1003/til/blob/master/css/tip.md)
