@@ -31,12 +31,13 @@ Today I Learned...
 
 ### HTML
 
-- [Examples of CSS Selectors and Pseudo Selectors](https://github.com/jessicajc1003/til/blob/master/html/index.html)
 - [.gitignore](https://github.com/jessicajc1003/til/blob/master/html/.gitignore.md)
-- [What is index.html?](https://github.com/jessicajc1003/til/blob/master/html/format.md)
-- [What is Meta tag?](https://github.com/jessicajc1003/til/blob/master/html/meta_tag.md)
-- [When to use a global class?](https://github.com/jessicajc1003/til/blob/master/html/globalImg.md)
-- [When to use underscore(\_\_) symbol?](https://github.com/jessicajc1003/til/blob/master/html/parent-child.md)
+- [aside](https://github.com/jjessicacho/til/blob/master/html/aside.md)
+- [div & span](https://github.com/jjessicacho/til/blob/master/html/div-span.md)
+- [Format: Default Homepage 'index.html'](https://github.com/jjessicacho/til/blob/master/html/format.md)
+- [global image](https://github.com/jjessicacho/til/blob/master/html/globalImg.md)
+- [meta tag](https://github.com/jjessicacho/til/blob/master/html/meta_tag.md)
+- [parent\_\_child: class naming](https://github.com/jjessicacho/til/blob/master/html/parent-child.md)
 
 ### JavaScript
 
