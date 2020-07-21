@@ -30,6 +30,7 @@ Today I Learned...
 - [CSSOM](https://github.com/jjessicacho/til/blob/master/dom/cssom.md)
 - [DOM](https://github.com/jjessicacho/til/blob/master/dom/dom.md)
 - [HTML DOM](https://github.com/jjessicacho/til/blob/master/dom/html-dom.md)
+- [will-change](https://github.com/jjessicacho/til/blob/master/dom/will-change.md)
 
 ### Github
 
