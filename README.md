@@ -5,6 +5,7 @@ Today I Learned...
 ## Categories
 
 - [CSS](https://github.com/jessicajc1003/til#css)
+- [DOM](https://github.com/jjessicacho/til#css)
 - [Github](https://github.com/jessicajc1003/til#github)
 - [HTML](https://github.com/jessicajc1003/til#html)
 - [JavaScript](https://github.com/jessicajc1003/til#css)
@@ -22,6 +23,12 @@ Today I Learned...
 - [Overflow](https://github.com/jjessicacho/til/blob/master/css/overflow.md)
 - [What are Pseudo-classes?](https://github.com/jessicajc1003/til/blob/master/css/pseudo-selectors.md)
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
+
+### DOM
+
+- [\$0](https://github.com/jjessicacho/til/blob/master/dom/%240.md)
+- [DOM](https://github.com/jjessicacho/til/blob/master/dom/dom.md)
+- [HTML DOM](https://github.com/jjessicacho/til/blob/master/dom/html-dom.md)
 
 ### Github
 
