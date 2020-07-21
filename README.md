@@ -5,10 +5,11 @@ Today I Learned...
 ## Categories
 
 - [CSS](https://github.com/jessicajc1003/til#css)
-- [DOM](https://github.com/jjessicacho/til#css)
+- [DOM](https://github.com/jjessicacho/til#dom)
 - [Github](https://github.com/jessicajc1003/til#github)
 - [HTML](https://github.com/jessicajc1003/til#html)
-- [JavaScript](https://github.com/jessicajc1003/til#css)
+- [Inspect](https://github.com/jjessicacho/til#inspect)
+- [JavaScript](https://github.com/jessicajc1003/til#javascript)
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
@@ -44,9 +45,13 @@ Today I Learned...
 - [aside](https://github.com/jjessicacho/til/blob/master/html/aside.md)
 - [div & span](https://github.com/jjessicacho/til/blob/master/html/div-span.md)
 - [Format: Default Homepage 'index.html'](https://github.com/jjessicacho/til/blob/master/html/format.md)
-- [global image](https://github.com/jjessicacho/til/blob/master/html/globalImg.md)
-- [meta tag](https://github.com/jjessicacho/til/blob/master/html/meta_tag.md)
+- [Global image](https://github.com/jjessicacho/til/blob/master/html/globalImg.md)
+- [Meta tag](https://github.com/jjessicacho/til/blob/master/html/meta_tag.md)
 - [parent\_\_child: class naming](https://github.com/jjessicacho/til/blob/master/html/parent-child.md)
+
+### Inspect
+
+- [Performance](https://github.com/jjessicacho/til/blob/master/inspect/performance.md)
 
 ### JavaScript
 
