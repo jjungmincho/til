@@ -73,6 +73,7 @@ Today I Learned...
 - [File naming](https://github.com/jjessicacho/til/blob/master/vscode/file-naming.md)
 - [How to start VSCode?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
 - [How to view the markdown preview?](https://github.com/jessicajc1003/til/blob/master/vscode/mark-down-preview.md)
+- [option-alt key](https://github.com/jjessicacho/til/blob/master/vscode/option-alt.md)
 
 ## About
 
