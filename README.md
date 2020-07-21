@@ -27,6 +27,7 @@ Today I Learned...
 ### DOM
 
 - [\$0](https://github.com/jjessicacho/til/blob/master/dom/%240.md)
+- [CSSOM](https://github.com/jjessicacho/til/blob/master/dom/cssom.md)
 - [DOM](https://github.com/jjessicacho/til/blob/master/dom/dom.md)
 - [HTML DOM](https://github.com/jjessicacho/til/blob/master/dom/html-dom.md)
 
