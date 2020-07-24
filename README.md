@@ -25,6 +25,10 @@ Today I Learned...
 - [What are Pseudo-classes?](https://github.com/jessicajc1003/til/blob/master/css/pseudo-selectors.md)
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
 
+### Debugging
+
+- [performance](https://github.com/jjessicacho/til/blob/master/debugging/performance.md)
+
 ### DOM
 
 - [\$0](https://github.com/jjessicacho/til/blob/master/dom/%240.md)
@@ -49,13 +53,10 @@ Today I Learned...
 - [Meta tag](https://github.com/jjessicacho/til/blob/master/html/meta_tag.md)
 - [parent\_\_child: class naming](https://github.com/jjessicacho/til/blob/master/html/parent-child.md)
 
-### Inspect
-
-- [Performance](https://github.com/jjessicacho/til/blob/master/inspect/performance.md)
-
 ### JavaScript
 
 - [Array](https://github.com/jessicajc1003/til/blob/master/javascript/array.md)
+- [Audio: How to play game audio in JS?](https://github.com/jjessicacho/til/blob/master/javascript/audio.md)
 - [Boolean](https://github.com/jessicajc1003/til/blob/master/javascript/boolean.md)
 - [Callback](https://github.com/jjessicacho/til/blob/master/javascript/callback.md)
 - [Camel Case](https://github.com/jessicajc1003/til/blob/master/javascript/camel-case.md)
