@@ -61,6 +61,7 @@ Today I Learned...
 - [Callback](https://github.com/jjessicacho/til/blob/master/javascript/callback.md)
 - [Camel Case](https://github.com/jessicajc1003/til/blob/master/javascript/camel-case.md)
 - [Class](https://github.com/jjessicacho/til/blob/master/javascript/class.md)
+- [Code Refactoring](https://github.com/jjessicacho/til/blob/master/javascript/code-refactoring.md)
 - [Comment](https://github.com/jjessicacho/til/blob/master/javascript/comment.md)
 - [DOM: Document Object Model](https://github.com/jessicajc1003/til/blob/master/javascript/dom.md)
 - [ECMAScript](https://github.com/jessicajc1003/til/blob/master/javascript/ecma.md)
