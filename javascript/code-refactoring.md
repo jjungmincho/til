@@ -4,6 +4,8 @@ the process of restructuring existing computer code—changing the factoring—w
 
 - advatange: improved code readability and reduced complexity
 
+**Note: try not to do 'over-engineering'**
+
 ## Reference
 
 [Wikipedia: Code Refactoring](https://en.wikipedia.org/wiki/Code_refactoring)
