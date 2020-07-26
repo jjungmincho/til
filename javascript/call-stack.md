@@ -9,4 +9,4 @@ a mechanism for an interpreter (like the JavaScript interpreter in a web browser
 
 ## Reference
 
-https://developer.mozilla.org/en-US/docs/Glossary/Call_stack
+[MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
