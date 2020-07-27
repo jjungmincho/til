@@ -92,6 +92,7 @@ Today I Learned...
 
 ### Visual Studio Code
 
+- [README Guide](https://github.com/jjessicacho/til/blob/master/vscode/_readme.md)
 - [File naming](https://github.com/jjessicacho/til/blob/master/vscode/file-naming.md)
 - [How to start VSCode?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
 - [How to view the markdown preview?](https://github.com/jessicajc1003/til/blob/master/vscode/mark-down-preview.md)
