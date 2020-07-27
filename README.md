@@ -24,6 +24,7 @@ Today I Learned...
 - [Overflow](https://github.com/jjessicacho/til/blob/master/css/overflow.md)
 - [What are Pseudo-classes?](https://github.com/jessicajc1003/til/blob/master/css/pseudo-selectors.md)
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
+- [Root](https://github.com/jjessicacho/til/commit/e56349687782163b82d3f94884a4005e047e09fd)
 
 ### Debugging
 
