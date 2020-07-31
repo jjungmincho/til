@@ -44,6 +44,7 @@ Today I Learned...
 - [Basic writing and formatting syntax](https://github.com/jessicajc1003/til/blob/master/github/cheatsheet.md)
 - [Branch vs Master](https://github.com/jessicajc1003/til/blob/master/github/branch.md)
 - [Create a new file using Github Desktop](https://github.com/jessicajc1003/til/blob/master/github/createnewfile.md)
+- [Add images](https://github.com/jjessicacho/til/blob/master/github/images.md)
 
 ### HTML
 
