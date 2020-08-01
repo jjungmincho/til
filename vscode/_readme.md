@@ -1,4 +1,4 @@
-# How to write a README file well?
+# How to write an well-organized README file?
 
 - Who is the _audience_?
 - What parts of your project do you want to appeal the most to your audience?
