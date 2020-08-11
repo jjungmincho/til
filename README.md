@@ -10,6 +10,7 @@ Today I Learned...
 - [HTML](https://github.com/jessicajc1003/til#html)
 - [Inspect](https://github.com/jjessicacho/til#inspect)
 - [JavaScript](https://github.com/jessicajc1003/til#javascript)
+- [Terminal](https://github.com/jjessicacho/til#terminal)
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
@@ -90,6 +91,10 @@ Today I Learned...
 - [Toggle](https://github.com/jessicajc1003/til/blob/master/javascript/toggle.md)
 - [VanillaJS](https://github.com/jessicajc1003/til/blob/master/javascript/vanillajs.md)
 - [Let, const, var](https://github.com/jessicajc1003/til/blob/master/javascript/var.md)
+
+### Terminal
+
+- [Surge](https://github.com/jjessicacho/til/blob/master/terminal/surge.md)
 
 ### Visual Studio Code
 
