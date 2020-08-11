@@ -89,6 +89,7 @@ Today I Learned...
 - [Switch Statement](https://github.com/jjessicacho/til/blob/master/javascript/switch.md)
 - [Symbol](https://github.com/jessicajc1003/til/blob/master/javascript/symbol.md)
 - [Toggle](https://github.com/jessicajc1003/til/blob/master/javascript/toggle.md)
+- [typeof](https://github.com/jjessicacho/til/blob/master/javascript/typeof.md)
 - [VanillaJS](https://github.com/jessicajc1003/til/blob/master/javascript/vanillajs.md)
 - [Let, const, var](https://github.com/jessicajc1003/til/blob/master/javascript/var.md)
 
