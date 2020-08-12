@@ -80,6 +80,7 @@ Today I Learned...
 - [Events and event handlers](https://github.com/jessicajc1003/til/blob/master/javascript/event.md)
 - [Getter and Setter](https://github.com/jjessicacho/til/blob/master/javascript/getter-setter.md)
 - [Heap](https://github.com/jjessicacho/til/blob/master/javascript/heap.md)
+- [Hoisting](https://github.com/jjessicacho/til/blob/master/javascript/hoisting.md)
 - [if, else and or](https://github.com/jessicajc1003/til/blob/master/javascript/ifelse.md)
 - [iterator](https://github.com/jjessicacho/til/blob/master/javascript/iterator.md)
 - [json](https://github.com/jjessicacho/til/blob/master/javascript/json.md)
