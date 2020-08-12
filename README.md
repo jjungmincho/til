@@ -4,6 +4,7 @@ Today I Learned...
 
 ## Categories
 
+- [Computer Science](https://github.com/jjessicacho/til#computer-science)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
 - [Github](https://github.com/jessicajc1003/til#github)
@@ -14,6 +15,11 @@ Today I Learned...
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
+
+### Computer Science
+
+- [Coding]()
+- [Programming]()
 
 ### CSS
 
