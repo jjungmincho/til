@@ -18,8 +18,8 @@ Today I Learned...
 
 ### Computer Science
 
-- [Coding]()
-- [Programming]()
+- [Coding](https://github.com/jjessicacho/til/blob/master/computer-science/coding.md)
+- [Programming](https://github.com/jjessicacho/til/blob/master/computer-science/programming.md)
 
 ### CSS
 
