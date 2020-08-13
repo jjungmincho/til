@@ -92,6 +92,7 @@ Today I Learned...
 - [Comment](https://github.com/jjessicacho/til/blob/master/javascript/comment.md)
 - [DOM: Document Object Model](https://github.com/jessicajc1003/til/blob/master/javascript/dom.md)
 - [ECMAScript](https://github.com/jessicajc1003/til/blob/master/javascript/ecma.md)
+- [eval(string)](https://github.com/jjessicacho/til/blob/master/javascript/eval.md)
 - [Events and event handlers](https://github.com/jessicajc1003/til/blob/master/javascript/event.md)
 - [Getter and Setter](https://github.com/jjessicacho/til/blob/master/javascript/getter-setter.md)
 - [Heap](https://github.com/jjessicacho/til/blob/master/javascript/heap.md)
