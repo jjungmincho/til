@@ -4,6 +4,7 @@ Today I Learned...
 
 ## Categories
 
+- [Bootstrap](<(https://github.com/jjessicacho/til#bootstrap)>)
 - [Computer Science](https://github.com/jjessicacho/til#computer-science)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
@@ -15,6 +16,19 @@ Today I Learned...
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
+
+### Bootstrap
+
+- [Bootstrap](https://github.com/jjessicacho/til/blob/master/computer-science/bootstrap.md)
+- [Bootstrap CDN](https://github.com/jjessicacho/til/blob/master/computer-science/bootstrapCDN.md)
+- [Breakpoint](https://github.com/jjessicacho/til/blob/master/computer-science/breakpoint.md)
+- [CSS](https://github.com/jjessicacho/til/blob/master/computer-science/css.md)
+- [Grid](https://github.com/jjessicacho/til/blob/master/computer-science/grid.md)
+- [Grid Classes](https://github.com/jjessicacho/til/blob/master/computer-science/grid-classes.md)
+- [Grid Option](https://github.com/jjessicacho/til/blob/master/computer-science/grid-option.md)
+- [Grid System](https://github.com/jjessicacho/til/blob/master/computer-science/grid-system.md)
+- [JS](https://github.com/jjessicacho/til/blob/master/computer-science/js.md)
+- [Nesting](https://github.com/jjessicacho/til/blob/master/computer-science/nesting.md)
 
 ### Computer Science
 
