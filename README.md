@@ -66,6 +66,7 @@ Today I Learned...
 
 ### JavaScript
 
+- [Argument](<(https://github.com/jjessicacho/til/blob/master/javascript/argument.md)>)
 - [Array](https://github.com/jessicajc1003/til/blob/master/javascript/array.md)
 - [Audio: How to play game audio in JS?](https://github.com/jjessicacho/til/blob/master/javascript/audio.md)
 - [Boolean](https://github.com/jessicajc1003/til/blob/master/javascript/boolean.md)
@@ -90,6 +91,7 @@ Today I Learned...
 - [Methods](https://github.com/jjessicacho/til/blob/master/javascript/methods.md)
 - [Null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
 - [Object](https://github.com/jessicajc1003/til/blob/master/javascript/object.md)
+- [Parameter](<(https://github.com/jjessicacho/til/blob/master/javascript/parameter.md)>)
 - [Print](https://github.com/jjessicacho/til/blob/master/javascript/print.md)
 - [Promise](https://github.com/jjessicacho/til/blob/master/javascript/promise.md)
 - [Queue](https://github.com/jjessicacho/til/blob/master/javascript/queue.md)
