@@ -1,0 +1,14 @@
+# Font weight and italics
+
+```
+<p class="font-weight-bold">Bold text.</p>
+<p class="font-weight-bolder">Bolder weight text (relative to the parent element).</p>
+<p class="font-weight-normal">Normal weight text.</p>
+<p class="font-weight-light">Light weight text.</p>
+<p class="font-weight-lighter">Lighter weight text (relative to the parent element).</p>
+<p class="font-italic">Italic text.</p>
+```
+
+## Reference
+
+[Bootstrap](https://getbootstrap.com/docs/4.2/utilities/text/#font-weight-and-italics)
