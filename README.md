@@ -4,7 +4,7 @@ Today I Learned...
 
 ## Categories
 
-- [Bootstrap](<(https://github.com/jjessicacho/til#bootstrap)>)
+- [Bootstrap](https://github.com/jjessicacho/til#bootstrap)
 - [Computer Science](https://github.com/jjessicacho/til#computer-science)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
@@ -12,6 +12,7 @@ Today I Learned...
 - [HTML](https://github.com/jessicajc1003/til#html)
 - [Inspect](https://github.com/jjessicacho/til#inspect)
 - [JavaScript](https://github.com/jessicajc1003/til#javascript)
+- [Node.js](https://github.com/jjessicacho/til#nodejs)
 - [Terminal](https://github.com/jjessicacho/til#terminal)
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
@@ -94,7 +95,7 @@ Today I Learned...
 
 ### JavaScript
 
-- [Argument](<(https://github.com/jjessicacho/til/blob/master/javascript/argument.md)>)
+- [Argument](https://github.com/jjessicacho/til/blob/master/javascript/argument.md)
 - [Array](https://github.com/jessicajc1003/til/blob/master/javascript/array.md)
 - [Audio: How to play game audio in JS?](https://github.com/jjessicacho/til/blob/master/javascript/audio.md)
 - [Boolean](https://github.com/jessicajc1003/til/blob/master/javascript/boolean.md)
@@ -132,9 +133,14 @@ Today I Learned...
 - [VanillaJS](https://github.com/jessicajc1003/til/blob/master/javascript/vanillajs.md)
 - [Let, const, var](https://github.com/jessicajc1003/til/blob/master/javascript/var.md)
 
-### Terminal
+### Node.js
 
+- [global](https://github.com/jjessicacho/til/blob/master/nodejs/global.md)
+- [REPL](https://github.com/jjessicacho/til/blob/master/nodejs/REPL.md)
 - [Surge](https://github.com/jjessicacho/til/blob/master/terminal/surge.md)
+- [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
+
+### Terminal
 
 ### Visual Studio Code
 
