@@ -5,7 +5,6 @@ Today I Learned...
 ## Categories
 
 - [Bootstrap](https://github.com/jjessicacho/til#bootstrap)
-- [Computer Science](https://github.com/jjessicacho/til#computer-science)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
 - [Github](https://github.com/jessicajc1003/til#github)
@@ -44,11 +43,6 @@ Today I Learned...
 - [Tabs](https://github.com/jjessicacho/til/blob/master/computer-science/tabs.md)
 - [Text Alignment](https://github.com/jjessicacho/til/blob/master/computer-science/text-alignment.md)
 - [Text Transform](https://github.com/jjessicacho/til/blob/master/computer-science/text-transform.md)
-
-### Computer Science
-
-- [Coding](https://github.com/jjessicacho/til/blob/master/computer-science/coding.md)
-- [Programming](https://github.com/jjessicacho/til/blob/master/computer-science/programming.md)
 
 ### CSS
 
