@@ -12,6 +12,7 @@ Today I Learned...
 - [Inspect](https://github.com/jjessicacho/til#inspect)
 - [JavaScript](https://github.com/jessicajc1003/til#javascript)
 - [Node.js](https://github.com/jjessicacho/til#nodejs)
+- [SASS](https://github.com/jjessicacho/til#sass)
 - [Terminal](https://github.com/jjessicacho/til#terminal)
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
@@ -133,6 +134,10 @@ Today I Learned...
 - [REPL](https://github.com/jjessicacho/til/blob/master/nodejs/REPL.md)
 - [Surge](https://github.com/jjessicacho/til/blob/master/terminal/surge.md)
 - [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
+
+### SASS
+
+- [Compiling](https://github.com/jjessicacho/til/blob/master/sass/compiling.md)
 
 ### Terminal
 
