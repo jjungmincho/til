@@ -140,6 +140,7 @@ Today I Learned...
 - [Nesting](https://github.com/jjessicacho/til/blob/master/sass/nesting.md)
 - [SASS](https://github.com/jjessicacho/til/blob/master/sass/sass.md)
 - [SCSS](https://github.com/jjessicacho/til/blob/master/sass/scss.md)
+- [Sass Type](https://github.com/jjessicacho/til/blob/master/sass/type.md)
 
 ### Terminal
 
