@@ -116,7 +116,7 @@ Today I Learned...
 - [Methods](https://github.com/jjessicacho/til/blob/master/javascript/methods.md)
 - [Null and undefined](https://github.com/jessicajc1003/til/blob/master/javascript/null-undefind.md)
 - [Object](https://github.com/jessicajc1003/til/blob/master/javascript/object.md)
-- [Parameter](<(https://github.com/jjessicacho/til/blob/master/javascript/parameter.md)>)
+- [Parameter](https://github.com/jjessicacho/til/blob/master/javascript/parameter.md)
 - [Print](https://github.com/jjessicacho/til/blob/master/javascript/print.md)
 - [Promise](https://github.com/jjessicacho/til/blob/master/javascript/promise.md)
 - [Queue](https://github.com/jjessicacho/til/blob/master/javascript/queue.md)

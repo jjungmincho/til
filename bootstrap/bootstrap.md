@@ -5,4 +5,4 @@
 
 ## Reference
 
-[Wiki](<https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)>)
+[Wiki](https://en.wikipedia.org/wiki/Bootstrap)

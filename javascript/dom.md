@@ -10,4 +10,4 @@ With the object model, JavaScript gets all the power it needs to create dynamic 
 - JavaScript can react to all existing HTML events in the page
 - JavaScript can create new HTML events in the page
 
-[w3schools.com](<[https://www.w3schools.com/js/js_htmldom.asp](https://www.w3schools.com/js/js_htmldom.asp)>)
+[w3schools.com](https://www.w3schools.com/js/js_htmldom.asp)
