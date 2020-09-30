@@ -5,6 +5,7 @@ Today I Learned...
 ## Categories
 
 - [Bootstrap](https://github.com/jjessicacho/til#bootstrap)
+- [Code Foundation](https://github.com/jjessicacho/til#code-foundation)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
 - [Github](https://github.com/jessicajc1003/til#github)
@@ -20,30 +21,34 @@ Today I Learned...
 
 ### Bootstrap
 
-- [Bootstrap](https://github.com/jjessicacho/til/blob/master/computer-science/bootstrap.md)
-- [Bootstrap CDN](https://github.com/jjessicacho/til/blob/master/computer-science/bootstrapCDN.md)
-- [Breakpoint](https://github.com/jjessicacho/til/blob/master/computer-science/breakpoint.md)
-- [Button](https://github.com/jjessicacho/til/blob/master/computer-science/button.md)
-- [Cards](https://github.com/jjessicacho/til/blob/master/computer-science/cards.md)
-- [Collapse](https://github.com/jjessicacho/til/blob/master/computer-science/collapse.md)
-- [CSS](https://github.com/jjessicacho/til/blob/master/computer-science/css.md)
-- [Disabled State](https://github.com/jjessicacho/til/blob/master/computer-science/disabled-state.md)
-- [Dropdown](https://github.com/jjessicacho/til/blob/master/computer-science/dropdown.md)
-- [Fixed Top + Bottom](https://github.com/jjessicacho/til/blob/master/computer-science/fixed.md)
-- [Font weight and italics](https://github.com/jjessicacho/til/blob/master/computer-science/font-weight-italics.md)
-- [Grid](https://github.com/jjessicacho/til/blob/master/computer-science/grid.md)
-- [Grid Classes](https://github.com/jjessicacho/til/blob/master/computer-science/grid-classes.md)
-- [Grid Option](https://github.com/jjessicacho/til/blob/master/computer-science/grid-option.md)
-- [Grid System](https://github.com/jjessicacho/til/blob/master/computer-science/grid-system.md)
-- [JS](https://github.com/jjessicacho/til/blob/master/computer-science/js.md)
-- [Jumpbotron](https://github.com/jjessicacho/til/blob/master/computer-science/jumpbotron.md)
-- [Nav](https://github.com/jjessicacho/til/blob/master/computer-science/nav.md)
-- [Navbar](https://github.com/jjessicacho/til/blob/master/computer-science/navbar.md)
-- [Nesting](https://github.com/jjessicacho/til/blob/master/computer-science/nesting.md)
-- [Position](https://github.com/jjessicacho/til/blob/master/computer-science/position.md)
-- [Tabs](https://github.com/jjessicacho/til/blob/master/computer-science/tabs.md)
-- [Text Alignment](https://github.com/jjessicacho/til/blob/master/computer-science/text-alignment.md)
-- [Text Transform](https://github.com/jjessicacho/til/blob/master/computer-science/text-transform.md)
+- [Bootstrap](https://github.com/jjessicacho/til/blob/master/bootstrap/bootstrap.md)
+- [Bootstrap CDN](https://github.com/jjessicacho/til/blob/master/bootstrap/bootstrapCDN.md)
+- [Breakpoint](https://github.com/jjessicacho/til/blob/master/bootstrap/breakpoint.md)
+- [Button](https://github.com/jjessicacho/til/blob/master/bootstrap/button.md)
+- [Cards](https://github.com/jjessicacho/til/blob/master/bootstrap/cards.md)
+- [Collapse](https://github.com/jjessicacho/til/blob/master/bootstrap/collapse.md)
+- [CSS](https://github.com/jjessicacho/til/blob/master/bootstrap/css.md)
+- [Disabled State](https://github.com/jjessicacho/til/blob/master/bootstrap/disabled-state.md)
+- [Dropdown](https://github.com/jjessicacho/til/blob/master/bootstrap/dropdown.md)
+- [Fixed Top + Bottom](https://github.com/jjessicacho/til/blob/master/bootstrap/fixed.md)
+- [Font weight and italics](https://github.com/jjessicacho/til/blob/master/bootstrap/font-weight-italics.md)
+- [Grid](https://github.com/jjessicacho/til/blob/master/bootstrap/grid.md)
+- [Grid Classes](https://github.com/jjessicacho/til/blob/master/bootstrap/grid-classes.md)
+- [Grid Option](https://github.com/jjessicacho/til/blob/master/bootstrap/grid-option.md)
+- [Grid System](https://github.com/jjessicacho/til/blob/master/bootstrap/grid-system.md)
+- [JS](https://github.com/jjessicacho/til/blob/master/bootstrap/js.md)
+- [Jumpbotron](https://github.com/jjessicacho/til/blob/master/bootstrap/jumpbotron.md)
+- [Nav](https://github.com/jjessicacho/til/blob/master/bootstrap/nav.md)
+- [Navbar](https://github.com/jjessicacho/til/blob/master/bootstrap/navbar.md)
+- [Nesting](https://github.com/jjessicacho/til/blob/master/bootstrap/nesting.md)
+- [Position](https://github.com/jjessicacho/til/blob/master/bootstrap/position.md)
+- [Tabs](https://github.com/jjessicacho/til/blob/master/bootstrap/tabs.md)
+- [Text Alignment](https://github.com/jjessicacho/til/blob/master/bootstrap/text-alignment.md)
+- [Text Transform](https://github.com/jjessicacho/til/blob/master/bootstrap/text-transform.md)
+
+### Code Foundation
+
+- [Arithmetic operators](https://github.com/jjessicacho/til/blob/master/code-foundation/arithmetic-operators.md)
 
 ### CSS
 
