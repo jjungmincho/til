@@ -49,6 +49,23 @@ Today I Learned...
 ### Code Foundation
 
 - [Arithmetic operators](https://github.com/jjessicacho/til/blob/master/code-foundation/arithmetic-operators.md)
+- [Coding](https://github.com/jjessicacho/til/blob/master/code-foundation/coding.md)
+- [Comparison Operators](https://github.com/jjessicacho/til/blob/master/code-foundation/comparison-operators.md)
+- [Control flow](https://github.com/jjessicacho/til/blob/master/code-foundation/control-flow.md)
+- [Data](https://github.com/jjessicacho/til/blob/master/code-foundation/data.md)
+- [Function](https://github.com/jjessicacho/til/blob/master/code-foundation/function.md)
+- [Hardcoding](https://github.com/jjessicacho/til/blob/master/code-foundation/hardcoding.md)
+- [Index](https://github.com/jjessicacho/til/blob/master/code-foundation/index.md)
+- [List](https://github.com/jjessicacho/til/blob/master/code-foundation/list.md)
+- [Logical operators](https://github.com/jjessicacho/til/blob/master/code-foundation/logical-operators.md)
+- [Loop](https://github.com/jjessicacho/til/blob/master/code-foundation/loop.md)
+- [Operations](https://github.com/jjessicacho/til/blob/master/code-foundation/operations.md)
+- [Operators](https://github.com/jjessicacho/til/blob/master/code-foundation/operators.md)
+- [Parameters vs Arguments](https://github.com/jjessicacho/til/blob/master/code-foundation/parameters-vs-arguments.md)
+- [Primitives](https://github.com/jjessicacho/til/blob/master/code-foundation/primitives.md)
+- [Programming](https://github.com/jjessicacho/til/blob/master/code-foundation/programming.md)
+- [Syntax](https://github.com/jjessicacho/til/blob/master/code-foundation/syntax.md)
+- [Variables](https://github.com/jjessicacho/til/blob/master/code-foundation/variables.md)
 
 ### CSS
 
