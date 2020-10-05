@@ -167,6 +167,8 @@ Today I Learned...
 
 ### Terminal
 
+- [ls](https://github.com/jjessicacho/til/blob/master/terminal/ls.md)
+
 ### Visual Studio Code
 
 - [README Guide](https://github.com/jjessicacho/til/blob/master/vscode/_readme.md)
