@@ -168,6 +168,7 @@ Today I Learned...
 ### Terminal
 
 - [ls](https://github.com/jjessicacho/til/blob/master/terminal/ls.md)
+- [cd](https://github.com/jjessicacho/til/blob/master/terminal/cd.md)
 
 ### Visual Studio Code
 
