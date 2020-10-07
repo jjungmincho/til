@@ -174,6 +174,7 @@ Today I Learned...
 
 - [ls](https://github.com/jjessicacho/til/blob/master/terminal/ls.md)
 - [cd](https://github.com/jjessicacho/til/blob/master/terminal/cd.md)
+- [rm](https://github.com/jjessicacho/til/blob/master/terminal/rm.md)
 
 ### Visual Studio Code
 
