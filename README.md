@@ -5,6 +5,7 @@ Today I Learned...
 ## Categories
 
 - [Bootstrap](https://github.com/jjessicacho/til#bootstrap)
+- [C](https://github.com/jjessicacho/til#c)
 - [Code Foundation](https://github.com/jjessicacho/til#code-foundation)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
@@ -45,6 +46,10 @@ Today I Learned...
 - [Tabs](https://github.com/jjessicacho/til/blob/master/bootstrap/tabs.md)
 - [Text Alignment](https://github.com/jjessicacho/til/blob/master/bootstrap/text-alignment.md)
 - [Text Transform](https://github.com/jjessicacho/til/blob/master/bootstrap/text-transform.md)
+
+### C
+
+- [Bootstrap](https://github.com/jjessicacho/til/blob/master/c/valgrind.md)
 
 ### Code Foundation
 
