@@ -16,7 +16,7 @@ Today I Learned...
 - [Node.js](https://github.com/jjessicacho/til#nodejs)
 - [Sass](https://github.com/jjessicacho/til#sass)
 - [Terminal](https://github.com/jjessicacho/til#terminal)
-- [UI Design](https://github.com/jjessicacho/til#ui)
+- [UI Design](https://github.com/jjessicacho/til#ui-design)
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
