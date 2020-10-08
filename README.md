@@ -17,6 +17,7 @@ Today I Learned...
 - [Sass](https://github.com/jjessicacho/til#sass)
 - [Terminal](https://github.com/jjessicacho/til#terminal)
 - [UI Design](https://github.com/jjessicacho/til#ui-design)
+- [UX Design](https://github.com/jjessicacho/til#ux-design)
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
@@ -179,16 +180,29 @@ Today I Learned...
 
 ### UI Design
 
-- [alignment](https://github.com/jjessicacho/til/blob/master/ui/alignment.md)
-- [color-symbolism](https://github.com/jjessicacho/til/blob/master/ui/color-symbolism.md)
-- [color](https://github.com/jjessicacho/til/blob/master/ui/color.md)
-- [contrast](https://github.com/jjessicacho/til/blob/master/ui/contrast.md)
-- [scale](https://github.com/jjessicacho/til/blob/master/ui/scale.md)
-- [typography](https://github.com/jjessicacho/til/blob/master/ui/typography.md)
-- [ui](https://github.com/jjessicacho/til/blob/master/ui/ui.md)
-- [visual-hierarchy](https://github.com/jjessicacho/til/blob/master/ui/visual-hierarchy.md)
-- [WCAG 2.0](https://github.com/jjessicacho/til/blob/master/ui/wcag.md)
-- [White space](https://github.com/jjessicacho/til/blob/master/ui/white-space.md)
+- [Alignment](https://github.com/jjessicacho/til/blob/master/ui-design/alignment.md)
+- [Color symbolism](https://github.com/jjessicacho/til/blob/master/ui-design/color-symbolism.md)
+- [color](https://github.com/jjessicacho/til/blob/master/ui-design/color.md)
+- [Contrast](https://github.com/jjessicacho/til/blob/master/ui-design/contrast.md)
+- [Scale](https://github.com/jjessicacho/til/blob/master/ui-design/scale.md)
+- [Typography](https://github.com/jjessicacho/til/blob/master/ui-design/typography.md)
+- [UI definition](https://github.com/jjessicacho/til/blob/master/ui-design/ui.md)
+- [Visual hierarchy](https://github.com/jjessicacho/til/blob/master/ui-design/visual-hierarchy.md)
+- [WCAG 2.0](https://github.com/jjessicacho/til/blob/master/ui-design/wcag.md)
+- [White space](https://github.com/jjessicacho/til/blob/master/ui-design/white-space.md)
+
+### UX Design
+
+- [Brainstorming](https://github.com/jjessicacho/til/blob/master/ux-design/brainstorming.md)
+- [How to collect data?](https://github.com/jjessicacho/til/blob/master/ux-design/collecting-data.md)
+- [What is a good design?](https://github.com/jjessicacho/til/blob/master/ux-design/good-design.md)
+- [the Why, What and How of Product Use](https://github.com/jjessicacho/til/blob/master/ux-design/planning.md)
+- [Process of UX Design](https://github.com/jjessicacho/til/blob/master/ux-design/process.md)
+- [Prototype](https://github.com/jjessicacho/til/blob/master/ux-design/prototype.md)
+- [Reporting](https://github.com/jjessicacho/til/blob/master/ux-design/reporting.md)
+- [Research](https://github.com/jjessicacho/til/blob/master/ux-design/research.md)
+- [UX definition](https://github.com/jjessicacho/til/blob/master/ux-design/ux.md)
+- [Wireframe](https://github.com/jjessicacho/til/blob/master/ux-design/wireframe.md)
 
 ### Visual Studio Code
 
