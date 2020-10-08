@@ -16,6 +16,7 @@ Today I Learned...
 - [Node.js](https://github.com/jjessicacho/til#nodejs)
 - [Sass](https://github.com/jjessicacho/til#sass)
 - [Terminal](https://github.com/jjessicacho/til#terminal)
+- [UI Design](https://github.com/jjessicacho/til#ui)
 - [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
@@ -175,6 +176,19 @@ Today I Learned...
 - [ls](https://github.com/jjessicacho/til/blob/master/terminal/ls.md)
 - [cd](https://github.com/jjessicacho/til/blob/master/terminal/cd.md)
 - [rm](https://github.com/jjessicacho/til/blob/master/terminal/rm.md)
+
+### UI Design
+
+- [alignment](https://github.com/jjessicacho/til/blob/master/ui/alignment.md)
+- [color-symbolism](https://github.com/jjessicacho/til/blob/master/ui/color-symbolism.md)
+- [color](https://github.com/jjessicacho/til/blob/master/ui/color.md)
+- [contrast](https://github.com/jjessicacho/til/blob/master/ui/contrast.md)
+- [scale](https://github.com/jjessicacho/til/blob/master/ui/scale.md)
+- [typography](https://github.com/jjessicacho/til/blob/master/ui/typography.md)
+- [ui](https://github.com/jjessicacho/til/blob/master/ui/ui.md)
+- [visual-hierarchy](https://github.com/jjessicacho/til/blob/master/ui/visual-hierarchy.md)
+- [WCAG 2.0](https://github.com/jjessicacho/til/blob/master/ui/wcag.md)
+- [White space](https://github.com/jjessicacho/til/blob/master/ui/white-space.md)
 
 ### Visual Studio Code
 
