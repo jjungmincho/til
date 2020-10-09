@@ -10,6 +10,7 @@ Today I Learned...
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
 - [Github](https://github.com/jessicajc1003/til#github)
+- [Hardware](https://github.com/jjessicacho/til#hardware)
 - [HTML](https://github.com/jessicajc1003/til#html)
 - [Inspect](https://github.com/jjessicacho/til#inspect)
 - [JavaScript](https://github.com/jessicajc1003/til#javascript)
@@ -106,6 +107,33 @@ Today I Learned...
 - [Branch vs Master](https://github.com/jessicajc1003/til/blob/master/github/branch.md)
 - [Create a new file using Github Desktop](https://github.com/jessicajc1003/til/blob/master/github/createnewfile.md)
 - [Add images](https://github.com/jjessicacho/til/blob/master/github/images.md)
+
+### Hardware
+
+- [Binary System](https://github.com/jjessicacho/til/blob/master/hardware/binary-system.md)
+- [BIOS Setting](https://github.com/jjessicacho/til/blob/master/hardware/bios-setting.md)
+- [Bit](https://github.com/jjessicacho/til/blob/master/hardware/bit.md)
+- [Browser](https://github.com/jjessicacho/til/blob/master/hardware/browser.md)
+- [Byte](https://github.com/jjessicacho/til/blob/master/hardware/binary-system.md)
+- [Cache](https://github.com/jjessicacho/til/blob/master/hardware/cache.md)
+- [Controller](https://github.com/jjessicacho/til/blob/master/hardware/controller.md)
+- [CPU](https://github.com/jjessicacho/til/blob/master/hardware/cpu.md)
+- [Data Process Cycle](https://github.com/jjessicacho/til/blob/master/hardware/data-process-cycle.md)
+- [Decimal System](https://github.com/jjessicacho/til/blob/master/hardware/decimal-system.md)
+- [Email](https://github.com/jjessicacho/til/blob/master/hardware/email.md)
+- [FTP](https://github.com/jjessicacho/til/blob/master/hardware/ftp.md)
+- [Input](https://github.com/jjessicacho/til/blob/master/hardware/input.md)
+- [Main Board](https://github.com/jjessicacho/til/blob/master/hardware/main-board.md)
+- [Media](https://github.com/jjessicacho/til/blob/master/hardware/media.md)
+- [Out Device](https://github.com/jjessicacho/til/blob/master/hardware/out-device.md)
+- [Port](https://github.com/jjessicacho/til/blob/master/hardware/port.md)
+- [POST](https://github.com/jjessicacho/til/blob/master/hardware/post.md)
+- [RAM](https://github.com/jjessicacho/til/blob/master/hardware/ram.md)
+- [ROM](https://github.com/jjessicacho/til/blob/master/hardware/rom.md)
+- [Storage Device](https://github.com/jjessicacho/til/blob/master/hardware/storage-device.md)
+- [System bus](https://github.com/jjessicacho/til/blob/master/hardware/system-bus.md)
+- [Utilities - Antivirus](https://github.com/jjessicacho/til/blob/master/hardware/utilities-antivirus.md)
+- [Utilities - Backup](https://github.com/jjessicacho/til/blob/master/hardware/utilities-backup.md)
 
 ### HTML
 
