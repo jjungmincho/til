@@ -139,6 +139,7 @@ Today I Learned...
 
 - [.gitignore](https://github.com/jessicajc1003/til/blob/master/html/.gitignore.md)
 - [aside](https://github.com/jjessicacho/til/blob/master/html/aside.md)
+- [br](https://github.com/jjessicacho/til/blob/master/html/br.md)
 - [div & span](https://github.com/jjessicacho/til/blob/master/html/div-span.md)
 - [Format: Default Homepage 'index.html'](https://github.com/jjessicacho/til/blob/master/html/format.md)
 - [Global image](https://github.com/jjessicacho/til/blob/master/html/globalImg.md)
