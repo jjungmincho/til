@@ -139,12 +139,16 @@ Today I Learned...
 
 - [.gitignore](https://github.com/jessicajc1003/til/blob/master/html/.gitignore.md)
 - [aside](https://github.com/jjessicacho/til/blob/master/html/aside.md)
+- [blank](https://github.com/jjessicacho/til/blob/master/html/blank.md)
 - [br](https://github.com/jjessicacho/til/blob/master/html/br.md)
 - [div & span](https://github.com/jjessicacho/til/blob/master/html/div-span.md)
+- [DOCTYPE](https://github.com/jjessicacho/til/blob/master/html/doctype.md)
 - [Format: Default Homepage 'index.html'](https://github.com/jjessicacho/til/blob/master/html/format.md)
 - [Global image](https://github.com/jjessicacho/til/blob/master/html/globalImg.md)
+- [Heading tag](https://github.com/jjessicacho/til/blob/master/html/heading-tag.md)
 - [Meta tag](https://github.com/jjessicacho/til/blob/master/html/meta_tag.md)
 - [parent\_\_child: class naming](https://github.com/jjessicacho/til/blob/master/html/parent-child.md)
+- [video](https://github.com/jjessicacho/til/blob/master/html/video.md)
 
 ### JavaScript
 
