@@ -6,7 +6,11 @@
   - Setting `type` to "radio" creates a radio button that can be paired with other radio buttons.
 - A `select` element is populated with `option` elements and renders a dropdown list selection.
 - A `datalist` element is populated with `option` elements and works with an `input` to search through choices.
+- Adding the `required` attribute to an input related element will validate that the input field has information in it.
+  - `min`, `max`, `minlength`, `maxlength`
+- Assigning a regex(=regular expression) to `pattern` matches the input to the provided regex.
 
 ## Reference
 
 [Codecademy: HTML Forms](www.codecademy.com)
+[MDN: Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
