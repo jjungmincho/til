@@ -143,6 +143,8 @@ Today I Learned...
 - [br](https://github.com/jjessicacho/til/blob/master/html/br.md)
 - [div & span](https://github.com/jjessicacho/til/blob/master/html/div-span.md)
 - [!DOCTYPE](https://github.com/jjessicacho/til/blob/master/html/doctype.md)
+- [Figcaption](https://github.com/jjessicacho/til/blob/master/html/figcaption.md)
+- [Figure](https://github.com/jjessicacho/til/blob/master/html/figure.md)
 - [Form](https://github.com/jjessicacho/til/blob/master/html/form.md)
 - [Format: Default Homepage 'index.html'](https://github.com/jjessicacho/til/blob/master/html/format.md)
 - [Global image](https://github.com/jjessicacho/til/blob/master/html/globalImg.md)
