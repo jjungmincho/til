@@ -150,6 +150,7 @@ Today I Learned...
 - [Identation](https://github.com/jjessicacho/til/blob/master/html/identation.md)
 - [Meta tag](https://github.com/jjessicacho/til/blob/master/html/meta_tag.md)
 - [parent\_\_child: class naming](https://github.com/jjessicacho/til/blob/master/html/parent-child.md)
+- [Semantic](https://github.com/jjessicacho/til/blob/master/html/semantic.md)
 - [Table](https://github.com/jjessicacho/til/blob/master/html/table.md)
 - [Video](https://github.com/jjessicacho/til/blob/master/html/video.md)
 
