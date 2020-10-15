@@ -77,6 +77,7 @@ Today I Learned...
 
 ### CSS
 
+- [Auto](https://github.com/jjessicacho/til/blob/master/css/auto.md)
 - [Inline vs Block vs Inline Block](https://github.com/jessicajc1003/til/blob/master/css/box-display.md)
 - [Carousel](https://github.com/jjessicacho/til/blob/master/css/carousel.md)
 - [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
@@ -91,6 +92,7 @@ Today I Learned...
 - [Rainbow Text](https://github.com/jjessicacho/til/blob/master/css/rainbow-text.md)
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
 - [Root](https://github.com/jjessicacho/til/commit/e56349687782163b82d3f94884a4005e047e09fd)
+- [Structure](https://github.com/jjessicacho/til/blob/master/css/structure.md)
 
 ### Debugging
 
