@@ -84,6 +84,7 @@ Today I Learned...
 - [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
 - [Folder Path](https://github.com/jjessicacho/til/blob/master/css/folder-path.md)
 - [Height](https://github.com/jjessicacho/til/blob/master/css/height.md)
+- [HSL](https://github.com/jjessicacho/til/blob/master/css/hsl.md)
 - [Linking](https://github.com/jjessicacho/til/blob/master/css/linking.md)
 - [Multiple classes](https://github.com/jjessicacho/til/blob/master/css/multiple-classes.md)
 - [Nested elements](https://github.com/jjessicacho/til/blob/master/css/nested-elements.md)
