@@ -30,6 +30,8 @@ footer * {
 }
 ```
 
+_You can switch absolute and relative postion as which you want to overlay the top_
+
 ## Reference
 
 [Codecademy: Code Challenge "Paint Store"](www.codecademy.com)
