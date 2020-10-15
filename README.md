@@ -78,7 +78,8 @@ Today I Learned...
 ### CSS
 
 - [Auto](https://github.com/jjessicacho/til/blob/master/css/auto.md)
-- [Inline vs Block vs Inline Block](https://github.com/jessicajc1003/til/blob/master/css/box-display.md)
+- [box-display](https://github.com/jjessicacho/til/blob/master/css/box-display.md)
+- [box-sizing](https://github.com/jjessicacho/til/blob/master/css/box-sizing.md)
 - [Carousel](https://github.com/jjessicacho/til/blob/master/css/carousel.md)
 - [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
 - [Folder Path](https://github.com/jjessicacho/til/blob/master/css/folder-path.md)
