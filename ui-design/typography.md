@@ -2,7 +2,7 @@
 
 Good typography requires the understanding of other fundamentals, along with a few special considerations.
 
-- Font Choice(s) - _Recommended to have max 2 font families_
+- Font Choice(s) - _Recommended to have max 2-3 font families_
 - Visual Hierarchy
 - Font size(scale)
 - Alignment
