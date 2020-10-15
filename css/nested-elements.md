@@ -17,6 +17,8 @@ The nested `<li>` elements are selected with the following CSS:
 }
 ```
 
+**Because of the more specific CSS selector (.description h5), the more general selector of h5 will not take hold.**
+
 ## Reference
 
 [Codecademy CSS SETUP AND SELECTORS](www.codecademy.com)
