@@ -90,6 +90,7 @@ Today I Learned...
 - [Nested elements](https://github.com/jjessicacho/til/blob/master/css/nested-elements.md)
 - [How to write a note in CSS?](https://github.com/jessicajc1003/til/blob/master/css/tip.md)
 - [Overflow](https://github.com/jjessicacho/til/blob/master/css/overflow.md)
+- [Overlay](https://github.com/jjessicacho/til/blob/master/css/overlay.md)
 - [What are Pseudo-classes?](https://github.com/jessicajc1003/til/blob/master/css/pseudo-selectors.md)
 - [Rainbow Text](https://github.com/jjessicacho/til/blob/master/css/rainbow-text.md)
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
