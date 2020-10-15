@@ -145,6 +145,7 @@ Today I Learned...
 - [!DOCTYPE](https://github.com/jjessicacho/til/blob/master/html/doctype.md)
 - [Figcaption](https://github.com/jjessicacho/til/blob/master/html/figcaption.md)
 - [Figure](https://github.com/jjessicacho/til/blob/master/html/figure.md)
+- [Footer](https://github.com/jjessicacho/til/blob/master/html/footer.md)
 - [Form](https://github.com/jjessicacho/til/blob/master/html/form.md)
 - [Format: Default Homepage 'index.html'](https://github.com/jjessicacho/til/blob/master/html/format.md)
 - [Global image](https://github.com/jjessicacho/til/blob/master/html/globalImg.md)
