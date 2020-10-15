@@ -94,7 +94,8 @@ Today I Learned...
 - [What are Pseudo-classes?](https://github.com/jessicajc1003/til/blob/master/css/pseudo-selectors.md)
 - [Rainbow Text](https://github.com/jjessicacho/til/blob/master/css/rainbow-text.md)
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
-- [Root](https://github.com/jjessicacho/til/commit/e56349687782163b82d3f94884a4005e047e09fd)
+- [Root](https://github.com/jjessicacho/til/blob/master/css/root.md)
+- [Spacing](https://github.com/jjessicacho/til/blob/master/css/spacing.md)
 - [Structure](https://github.com/jjessicacho/til/blob/master/css/structure.md)
 
 ### Debugging
