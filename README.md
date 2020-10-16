@@ -82,6 +82,7 @@ Today I Learned...
 - [box-sizing](https://github.com/jjessicacho/til/blob/master/css/box-sizing.md)
 - [Carousel](https://github.com/jjessicacho/til/blob/master/css/carousel.md)
 - [Cilent Page](https://github.com/jjessicacho/til/blob/master/css/client-page.md)
+- [dpi](https://github.com/jjessicacho/til/blob/master/css/dpi.md)
 - [em](https://github.com/jjessicacho/til/blob/master/css/em.md)
 - [Fallback](https://github.com/jjessicacho/til/blob/master/css/fallback.md)
 - [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
