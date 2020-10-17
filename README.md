@@ -9,6 +9,7 @@ Today I Learned...
 - [Code Foundation](https://github.com/jjessicacho/til#code-foundation)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
+- [Flexbox](https://github.com/jjessicacho/til#flexbox)
 - [Github](https://github.com/jessicajc1003/til#github)
 - [Hardware](https://github.com/jjessicacho/til#hardware)
 - [HTML](https://github.com/jessicajc1003/til#html)
@@ -85,7 +86,6 @@ Today I Learned...
 - [dpi](https://github.com/jjessicacho/til/blob/master/css/dpi.md)
 - [em](https://github.com/jjessicacho/til/blob/master/css/em.md)
 - [Fallback](https://github.com/jjessicacho/til/blob/master/css/fallback.md)
-- [How to move a feature to the middle of the screen using flexbox](https://github.com/jessicajc1003/til/blob/master/css/flexbox.md)
 - [Folder Path](https://github.com/jjessicacho/til/blob/master/css/folder-path.md)
 - [font-face](https://github.com/jjessicacho/til/blob/master/css/font-face.md)
 - [Height](https://github.com/jjessicacho/til/blob/master/css/height.md)
@@ -115,6 +115,14 @@ Today I Learned...
 - [DOM](https://github.com/jjessicacho/til/blob/master/dom/dom.md)
 - [HTML DOM](https://github.com/jjessicacho/til/blob/master/dom/html-dom.md)
 - [will-change](https://github.com/jjessicacho/til/blob/master/dom/will-change.md)
+
+### Flexbox
+
+- [flex-basis](https://github.com/jjessicacho/til/blob/master/flexbox/flex-basis.md)
+- [flex-grow](https://github.com/jjessicacho/til/blob/master/flexbox/flex-grow.md)
+- [flex-shrink](https://github.com/jjessicacho/til/blob/master/flexbox/flex-shrink.md)
+- [flex](https://github.com/jjessicacho/til/blob/master/flexbox/flex.md)
+- [flexbox](https://github.com/jjessicacho/til/blob/master/flexbox/flexbox.md)
 
 ### Github
 
