@@ -7,11 +7,10 @@ font-family: "Work Sans", "Arial", sans-serif;
 font-family: "Abril Fatface", cursive, serif;
 ```
 
-"Work Sans": google font
-"Arial": fallback font
-
-cursive: google font
-serif: fallback font
+- "Work Sans": google font
+- "Arial": fallback font
+- cursive: google font
+- serif: fallback font
 
 ## Reference
 
