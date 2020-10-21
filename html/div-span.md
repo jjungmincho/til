@@ -1,6 +1,6 @@
-# div and span tags
+# div and span
 
-The div and span tags apply no meaning at all, but they make differences with the attributes class and id to associate the element with a class or id CSS selector.
+The `div` and `span` tags apply no meaning at all
 
 ## div
 
@@ -14,4 +14,4 @@ The div and span tags apply no meaning at all, but they make differences with th
 
 ## Reference
 
-[HTML Dog](https://htmldog.com/guides/html/intermediate/spandiv/)
+[HTML Dog: Span and Div](https://htmldog.com/guides/html/intermediate/spandiv/)
