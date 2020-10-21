@@ -1,14 +1,23 @@
-# Semantic HTML
+## Semantic HTML
 
-: relating to meaning
+```html
+<!--Non Semantic HTML-->
+<div id="footer">
+  <p>this is a footer</p>
+</div>
 
-- Makes webpages accessible for mobile devices and for people with disabilities as well because screen readers and browsers are able to interpret the code better
-- With better SEO(Search Engine Optimization), search engines are better able to identify the content of your website and weight the most important content appropriatel
-  _SEO: the process of increasing the number of people that visit your webpage_
-- Easy to Understand
+<!--Semantic HTML-->
+<footer>
+  <p>this is a footer</p>
+</footer>
+```
 
-<-> Non-semantic: using only `div` and `span`
+Semantic HTML introduces **meaning to the code** we write.
+
+Before Semantic HTML, the elements didn’t have any meaning as to what it does or what content goes in it. An element such as `<div>` was used as a general-purpose element to create things from headers to footers to articles.
+
+With Semantic HTML we were introduced to elements that tell developers and browsers exactly what it does and what content should go in it.
 
 ## Reference
 
-[Codecademy: Semantic HTML](www.codecademy.com)
+[Codecademy: Cheatsheets / Learn HTML / Semantic HTML](https://www.codecademy.com/learn/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-semantic-html/cheatsheet)
