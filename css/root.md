@@ -16,7 +16,7 @@
 Advantages:
 
 - You don't have to go one by one in every single code
-- You can just fix fromn there if there is any change later on
+- You can just fix from there if there is any change later on
 
 ## Reference
 
