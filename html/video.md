@@ -15,4 +15,4 @@
 
 ## Reference
 
-[Codecademy: HTML](www.codecademy.com)
+[Codecademy: Cheatsheets / Learn HTML / Elements and Structure](https://www.codecademy.com/learn/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-html-elements/cheatsheet)
