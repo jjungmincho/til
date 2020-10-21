@@ -12,4 +12,4 @@
 
 ## Reference
 
-[Codecademy Semantic HTML](www.codecademy.com)
+[Codecademy: Cheatsheets / Learn HTML / Semantic HTML](https://www.codecademy.com/learn/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-semantic-html/cheatsheet)
