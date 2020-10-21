@@ -12,5 +12,5 @@
 
 ## Reference
 
-[Codecademy: HTML Forms](www.codecademy.com)
+[Codecademy: Cheatsheets / Learn HTML / Forms](https://www.codecademy.com/learn/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-html-forms/cheatsheet)
 [MDN: Regular expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
