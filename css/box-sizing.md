@@ -1,10 +1,4 @@
-# Box-sizing
-
-## content-box
-
-- gives you the default CSS box-sizing behavior. If you set an element's width to 100 pixels, then the element's content box will be 100 pixels wide, and the width of any border or padding will be added to the final rendered width, making the element wider than 100px.
-
-## border-box
+# The property box-sizing of CSS box model
 
 ```css
 * {
@@ -12,14 +6,14 @@
 }
 ```
 
-- The code in the example above resets the box model to `border-box` for all HTML elements. This new box model avoids the dimensional issues that exist in the former box model you learned about.
+The CSS box model is a box that wraps around an HTML element and controls the design and layout.
 
-In this box model, the height and width of the box will remain fixed. The border thickness and padding will be included inside of the box, which means the overall dimensions of the box do not change.
+The property `box-sizing` controls which aspect of the box is determined by the height and width properties. The default value of this property is `content-box`, which renders the actual size of the element including the content box; but not the paddings and borders.
 
-- Width now means 'content + padding + border'
+The value `border-box`, on the other hand, renders the actual size of an element including the content box, paddings, and borders. The value `border-box` is recommended when it is necessary to resize the padding and border but not just the content.
 
 ## Reference
 
-[Codecademy: CHANGING THE BOX MODEL](www.codecademy.com)
+[Codecademy: Cheatsheets / Learn CSS / The Box Model](https://www.codecademy.com/learn/learn-css/modules/learn-css-box-model/cheatsheet)
 [Codecademy: The Box Model in Chrome DevTools](https://www.youtube.com/watch?v=uQi8TK-GDO4&feature=emb_title&ab_channel=Codecademy)
 [MDN box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
