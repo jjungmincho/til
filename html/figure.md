@@ -4,4 +4,4 @@ an element used to encapsulate media such as an image, illustration, diagram, co
 
 ## Reference
 
-[Codecademy SEMANTIC HTML](www.codecademy.com)
+[Codecademy: Cheatsheets / Learn HTML / Semantic HTML](https://www.codecademy.com/learn/paths/web-development/tracks/learn-html-web-dev-path/modules/learn-semantic-html/cheatsheet)
