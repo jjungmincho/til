@@ -1,4 +1,4 @@
-# overlay
+# How to overlay features in the footer?
 
 ```css
 footer {
@@ -30,7 +30,7 @@ footer * {
 }
 ```
 
-_You can switch absolute and relative postion as which you want to overlay the top_
+_You can switch absolute and relative postion as whichever you want to overlay on the top_
 
 ## Reference
 
