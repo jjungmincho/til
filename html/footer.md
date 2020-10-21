@@ -8,4 +8,4 @@ A: The `<header>` / `<main>` / `<footer>` semantic refer to the editorial conten
 
 ## Reference
 
-[Do we put the <footer> inside <body>?](https://www.quora.com/Do-we-put-the-footer-inside-body)
+[Do we put the `<footer>` inside `<body>`?](https://www.quora.com/Do-we-put-the-footer-inside-body)
