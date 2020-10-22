@@ -1,6 +1,6 @@
 # Color Schemes
 
-- Monochromatic: similar color
+- Monochromatic: all the colors of a single hue
 - Complementary: opposite color
 - Analogous: groups of three colours that are next to each other on the colour wheel
 - Triadic: virant colors that are evenly spaced around the color wheel
