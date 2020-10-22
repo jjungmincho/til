@@ -243,8 +243,8 @@ Today I Learned...
 ### UI Design
 
 - [Alignment](https://github.com/jjessicacho/til/blob/master/ui-design/alignment.md)
+- [Color Schemes](https://github.com/jjessicacho/til/blob/master/ui-design/color-schemes.md)
 - [Color symbolism](https://github.com/jjessicacho/til/blob/master/ui-design/color-symbolism.md)
-- [color](https://github.com/jjessicacho/til/blob/master/ui-design/color.md)
 - [Contrast](https://github.com/jjessicacho/til/blob/master/ui-design/contrast.md)
 - [Scale](https://github.com/jjessicacho/til/blob/master/ui-design/scale.md)
 - [Typography](https://github.com/jjessicacho/til/blob/master/ui-design/typography.md)
