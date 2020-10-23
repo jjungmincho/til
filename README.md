@@ -247,6 +247,7 @@ Today I Learned...
 - [Color symbolism](https://github.com/jjessicacho/til/blob/master/ui-design/color-symbolism.md)
 - [Contrast](https://github.com/jjessicacho/til/blob/master/ui-design/contrast.md)
 - [Scale](https://github.com/jjessicacho/til/blob/master/ui-design/scale.md)
+- [Text Readability](https://github.com/jjessicacho/til/blob/master/ui-design/text-readability.md)
 - [Typography](https://github.com/jjessicacho/til/blob/master/ui-design/typography.md)
 - [UI definition](https://github.com/jjessicacho/til/blob/master/ui-design/ui.md)
 - [Visual hierarchy](https://github.com/jjessicacho/til/blob/master/ui-design/visual-hierarchy.md)
