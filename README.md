@@ -258,6 +258,7 @@ Today I Learned...
 - [Brainstorming](https://github.com/jjessicacho/til/blob/master/ux-design/brainstorming.md)
 - [How to collect data?](https://github.com/jjessicacho/til/blob/master/ux-design/collecting-data.md)
 - [What is a good design?](https://github.com/jjessicacho/til/blob/master/ux-design/good-design.md)
+- [Hero](https://github.com/jjessicacho/til/blob/master/ux-design/hero.md)
 - [the Why, What and How of Product Use](https://github.com/jjessicacho/til/blob/master/ux-design/planning.md)
 - [Process of UX Design](https://github.com/jjessicacho/til/blob/master/ux-design/process.md)
 - [Prototype](https://github.com/jjessicacho/til/blob/master/ux-design/prototype.md)
