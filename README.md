@@ -175,6 +175,7 @@ Today I Learned...
 - [Meta charset = utf-8](https://github.com/jjessicacho/til/blob/master/html/meta-charset-utf-8.md)
 - [Semantic](https://github.com/jjessicacho/til/blob/master/html/semantic.md)
 - [Table](https://github.com/jjessicacho/til/blob/master/html/table.md)
+- [Tooltips & titles](https://github.com/jjessicacho/til/blob/master/html/tooltip-title.md)
 - [Underscores](https://github.com/jjessicacho/til/blob/master/html/underscores.md)
 - [Video](https://github.com/jjessicacho/til/blob/master/html/video.md)
 
