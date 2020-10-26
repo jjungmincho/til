@@ -2,7 +2,11 @@
 
 - a way for users to visualize their location on a website
 - a secondary navigation bar that typically appears as horizontal text links, separated by the "greater than" symbol (>)
-  <br>
+- Three types of breadcrumbs exist:
+  - location - based on hierarchical structure of site
+  - attribute - based on attributes of current page or item
+  - path - unique to a user’s journey on the site
+    <br>
 - How to make a secondary navigation(aka breadcrumb navigation)?
 
 ```html
