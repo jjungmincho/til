@@ -1,8 +1,13 @@
-# The property box-sizing of CSS box model
+# Inheriting box-sizing
 
 ```css
-* {
+html {
   box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
 }
 ```
 
@@ -17,3 +22,4 @@ The value `border-box`, on the other hand, renders the actual size of an element
 [Codecademy: Cheatsheets / Learn CSS / The Box Model](https://www.codecademy.com/learn/learn-css/modules/learn-css-box-model/cheatsheet)
 [Codecademy: The Box Model in Chrome DevTools](https://www.youtube.com/watch?v=uQi8TK-GDO4&feature=emb_title&ab_channel=Codecademy)
 [MDN box-sizing](https://developer.mozilla.org/en-US/docs/Web/CSS/box-sizing)
+[CSS-TRICKS: Inheriting box-sizing Probably Slightly Better Best-Practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
