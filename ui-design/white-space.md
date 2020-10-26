@@ -1,4 +1,4 @@
-# white space
+# white space (=negative space)
 
 the empty space between the elements in your user interface
 
