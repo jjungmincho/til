@@ -87,6 +87,7 @@ Today I Learned...
 - [fallback](https://github.com/jjessicacho/til/blob/master/css/fallback.md)
 - [How to center features using flexbox](https://github.com/jjessicacho/til/blob/master/css/flexbox-center.md)
 - [folder path](https://github.com/jjessicacho/til/blob/master/css/folder-path.md)
+- [grid](https://github.com/jjessicacho/til/blob/master/css/grid.md)
 - [hsl](https://github.com/jjessicacho/til/blob/master/css/hsl.md)
 - [Ways to import fonts](https://github.com/jjessicacho/til/blob/master/css/hsl.md)
 - [Link](https://github.com/jjessicacho/til/blob/master/css/link.md)
