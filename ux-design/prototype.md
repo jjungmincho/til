@@ -1,6 +1,8 @@
 # Prototype
 
-an early sample, model, or release of a product built to test a concept or process or to act as a thing to be replicated or learned from
+a middle to high-fidelity representation of the final product, which simulates user interface interaction
+
+Two types of prototype:
 
 - low-fidelity[LOW-FI]:
 
@@ -16,3 +18,4 @@ an early sample, model, or release of a product built to test a concept or proce
 
 [How to Develop a Prototype for Your Website or Application](https://usersnap.com/blog/website-prototype/)
 [Low-fidelity vs. high-fidelity prototyping](https://www.invisionapp.com/inside-design/low-fi-vs-hi-fi-prototyping/)
+[Adobe Blog: Everything You Need To Know About Wireframes And Prototypes](https://blog.adobe.com/en/2017/10/30/everything-you-need-to-know-about-wireframes-and-prototypes.html#gs.jqx2u4)
