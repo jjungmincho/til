@@ -13,6 +13,7 @@ Today I Learned...
 - [Github](https://github.com/jessicajc1003/til#github)
 - [Hardware](https://github.com/jjessicacho/til#hardware)
 - [HTML](https://github.com/jessicajc1003/til#html)
+- [Internet](https://github.com/jessicajc1003/til#html)
 - [Inspect](https://github.com/jjessicacho/til#inspect)
 - [JavaScript](https://github.com/jessicajc1003/til#javascript)
 - [Node.js](https://github.com/jjessicacho/til#nodejs)
@@ -20,7 +21,7 @@ Today I Learned...
 - [Terminal](https://github.com/jjessicacho/til#terminal)
 - [UI Design](https://github.com/jjessicacho/til#ui-design)
 - [UX Design](https://github.com/jjessicacho/til#ux-design)
-- [Visual Studio Code](https://github.com/jessicajc1003/til#vscode)
+- [VS Code](https://github.com/jessicajc1003/til#vscode)
 
 ---
 
@@ -181,6 +182,10 @@ Today I Learned...
 - [Underscores](https://github.com/jjessicacho/til/blob/master/html/underscores.md)
 - [Video](https://github.com/jjessicacho/til/blob/master/html/video.md)
 
+### Internet
+
+- [HTTP](https://github.com/jjessicacho/til/blob/master/internet/http.md)
+
 ### JavaScript
 
 - [Argument](https://github.com/jjessicacho/til/blob/master/javascript/argument.md)
@@ -271,7 +276,7 @@ Today I Learned...
 - [UX definition](https://github.com/jjessicacho/til/blob/master/ux-design/ux.md)
 - [Wireframe](https://github.com/jjessicacho/til/blob/master/ux-design/wireframe.md)
 
-### Visual Studio Code
+### VS Code
 
 - [README Guide](https://github.com/jjessicacho/til/blob/master/vscode/_readme.md)
 - [File naming](https://github.com/jjessicacho/til/blob/master/vscode/file-naming.md)
