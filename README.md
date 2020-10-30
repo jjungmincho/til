@@ -185,6 +185,8 @@ Today I Learned...
 ### Internet
 
 - [HTTP](https://github.com/jjessicacho/til/blob/master/internet/http.md)
+- [Packets](https://github.com/jjessicacho/til/blob/master/internet/packets.md)
+- [Web-related Concepts: What is the difference between webpage, website, web server, and search engine?](https://github.com/jjessicacho/til/blob/master/internet/web-related-concepts.md)
 
 ### JavaScript
 
