@@ -186,6 +186,7 @@ Today I Learned...
 
 - [HTTP](https://github.com/jjessicacho/til/blob/master/internet/http.md)
 - [Packets](https://github.com/jjessicacho/til/blob/master/internet/packets.md)
+- [SSL](https://github.com/jjessicacho/til/blob/master/internet/ssl.md)
 - [Web-related Concepts: What is the difference between webpage, website, web server, and search engine?](https://github.com/jjessicacho/til/blob/master/internet/web-related-concepts.md)
 
 ### JavaScript
