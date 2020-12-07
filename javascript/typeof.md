@@ -2,7 +2,7 @@
 
 to keep track of the data types of the variables in your program
 
-```
+```jsx
 const unknown1 = 'foo';
 console.log(typeof unknown1); // Output: string
 
