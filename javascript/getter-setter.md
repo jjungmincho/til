@@ -1,5 +1,13 @@
 # Getter and Setter
 
+Example in Java:
+1. coffee bending machine = class
+2. number of coffee = integer → this cannot be negative, needs at least 0 
+3. put coins, make coffee = methods
+⇒ this is why we need getter & setter so even if the user uses negative, it will set to 0 as a safe line
+4. Then, would it be okay someone else fixes numbers of coffee randomly? 
+5. No, this is why we use a private property for the numbers of coffee ⇒ "encapsulation"
+
 ```jsx
 class User {
   constructor(firstName, lastName, age) {
