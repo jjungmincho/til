@@ -1,6 +1,9 @@
 # toggle
 
+Syntax: 
+```jsx
 toggle ( String [, force] ): a function
+```
 
 ```jsx
 const title = document.querySelector("#title");
