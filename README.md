@@ -54,7 +54,7 @@ Today I Learned...
 
 ### C
 
-- [Bootstrap](https://github.com/jjessicacho/til/blob/master/c/valgrind.md)
+- [Valgrind](https://github.com/jjessicacho/til/blob/master/c/valgrind.md)
 
 ### Code Foundation
 
