@@ -1,8 +1,15 @@
 # class
 
-- template
+- template (=청사진) 
 - declare once
 - no data in
+
+
+예시) 
+데이터: 팥, 크림, 피자
+클래스: 붕어빵 틀
+오브젝트: 팥 붕어빵, 크림 붕어빵, 피자 붕어빵
+
 
 ```jsx
 class person{
