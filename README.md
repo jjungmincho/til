@@ -1,12 +1,13 @@
-# TIL
+# TIL (Today I learned)
 
-Today I Learned...
+TILs are short markdown documents explaning concepts about computer science with a little bit of code examples that I learned everyday. 
 
 ## Categories
 
 - [Bootstrap](https://github.com/jjessicacho/til#bootstrap)
 - [C](https://github.com/jjessicacho/til#c)
 - [Code Foundation](https://github.com/jjessicacho/til#code-foundation)
+- [Command Line](https://github.com/jjessicacho/til#command-line)
 - [CSS](https://github.com/jessicajc1003/til#css)
 - [DOM](https://github.com/jjessicacho/til#dom)
 - [Flexbox](https://github.com/jjessicacho/til#flexbox)
@@ -18,7 +19,6 @@ Today I Learned...
 - [JavaScript](https://github.com/jessicajc1003/til#javascript)
 - [Node.js](https://github.com/jjessicacho/til#nodejs)
 - [Sass](https://github.com/jjessicacho/til#sass)
-- [Terminal](https://github.com/jjessicacho/til#terminal)
 - [UI Design](https://github.com/jjessicacho/til#ui-design)
 - [UX Design](https://github.com/jjessicacho/til#ux-design)
 - [VS Code](https://github.com/jessicajc1003/til#vscode)
@@ -76,6 +76,12 @@ Today I Learned...
 - [Programming](https://github.com/jjessicacho/til/blob/master/code-foundation/programming.md)
 - [Syntax](https://github.com/jjessicacho/til/blob/master/code-foundation/syntax.md)
 - [Variables](https://github.com/jjessicacho/til/blob/master/code-foundation/variables.md)
+
+### Command Line
+
+- [ls](https://github.com/jjessicacho/til/blob/master/command-line/ls.md)
+- [cd](https://github.com/jjessicacho/til/blob/master/command-line/cd.md)
+- [rm](https://github.com/jjessicacho/til/blob/master/command-line/rm.md)
 
 ### CSS
 
@@ -247,11 +253,6 @@ Today I Learned...
 - [SCSS](https://github.com/jjessicacho/til/blob/master/sass/scss.md)
 - [Sass Type](https://github.com/jjessicacho/til/blob/master/sass/type.md)
 
-### Terminal
-
-- [ls](https://github.com/jjessicacho/til/blob/master/terminal/ls.md)
-- [cd](https://github.com/jjessicacho/til/blob/master/terminal/cd.md)
-- [rm](https://github.com/jjessicacho/til/blob/master/terminal/rm.md)
 
 ### UI Design
 
@@ -289,6 +290,3 @@ Today I Learned...
 - [How to view the markdown preview?](https://github.com/jessicajc1003/til/blob/master/vscode/mark-down-preview.md)
 - [Multi-line and multi-cursor editing](https://github.com/jjessicacho/til/blob/master/vscode/option-alt.md)
 
-## About
-
-I shamelessly stole this idea from [jbranchaud](https://github.com/jbranchaud/til)
