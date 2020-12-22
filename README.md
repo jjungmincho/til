@@ -247,7 +247,12 @@ TILs are short markdown documents explaning concepts about computer science with
 
 ### Node.js
 
+- [exit](https://github.com/jjessicacho/til/blob/master/nodejs/exit.md)
 - [global](https://github.com/jjessicacho/til/blob/master/nodejs/global.md)
+- [Loading Existing Files](https://github.com/jjessicacho/til/blob/master/nodejs/loading-existing-files.md)
+- [Module](https://github.com/jjessicacho/til/blob/master/nodejs/module.md)
+- [Node.js](https://github.com/jjessicacho/til/blob/master/nodejs/nodejs.md)
+- [npm](https://github.com/jjessicacho/til/blob/master/nodejs/npm.md)
 - [REPL](https://github.com/jjessicacho/til/blob/master/nodejs/REPL.md)
 - [Surge](https://github.com/jjessicacho/til/blob/master/terminal/surge.md)
 - [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
