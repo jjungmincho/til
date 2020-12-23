@@ -142,9 +142,11 @@ TILs are short markdown documents explaning concepts about computer science with
 
 ### Github
 
-- [Basic writing and formatting syntax](https://github.com/jessicajc1003/til/blob/master/github/cheatsheet.md)
-- [Branch vs Master](https://github.com/jessicajc1003/til/blob/master/github/branch.md)
-- [Create a new file using Github Desktop](https://github.com/jessicajc1003/til/blob/master/github/createnewfile.md)
+- [Branch](https://github.com/jjessicacho/til/blob/master/github/branch.md)
+- [Cheat sheet](https://github.com/jjessicacho/til/blob/master/github/cheatsheet.md)
+- [Creating a new file](https://github.com/jjessicacho/til/blob/master/github/create-new-file.md)
+- [Deploying](https://github.com/jjessicacho/til/blob/master/github/deploying.md)
+- [GitHub Pages](https://github.com/jjessicacho/til/blob/master/github/github-pages.md)
 - [Add images](https://github.com/jjessicacho/til/blob/master/github/images.md)
 
 ### Hardware
