@@ -299,7 +299,6 @@ TILs are short markdown documents explaning concepts about computer science with
 - [Wireframe](https://github.com/jjessicacho/til/blob/master/ux-design/wireframe.md)
 
 ### VS Code
-a
 - [README Guide](https://github.com/jjessicacho/til/blob/master/vscode/_readme.md)
 - [File naming](https://github.com/jjessicacho/til/blob/master/vscode/file-naming.md)
 - [How to start VSCode?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
