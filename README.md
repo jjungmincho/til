@@ -1,6 +1,6 @@
 # TIL (Today I learned)
 
-TILs are short markdown documents explaning concepts about computer science with a little bit of code examples that I learned everyday. 
+TILs are short markdown documents explaining concepts about computer science with a little bit of code examples that I learned everyday. 
 
 ## Categories
 
@@ -86,8 +86,10 @@ TILs are short markdown documents explaning concepts about computer science with
 - [filesystem](https://github.com/jjessicacho/til/blob/master/command-line/filesystem.md)
 - [ls](https://github.com/jjessicacho/til/blob/master/command-line/ls.md)
 - [mkdir](https://github.com/jjessicacho/til/blob/master/command-line/mkdir.md)
+- [Opening folder with VSCode](https://github.com/jjessicacho/til/blob/master/command-line/opening-folder-with-vscode.md)
 - [pwd](https://github.com/jjessicacho/til/blob/master/command-line/pwd.md)
 - [rm](https://github.com/jjessicacho/til/blob/master/command-line/rm.md)
+- [start](https://github.com/jjessicacho/til/blob/master/command-line/start.md)
 - [the command line](https://github.com/jjessicacho/til/blob/master/command-line/the-command-line.md)
 - [touch](https://github.com/jjessicacho/til/blob/master/command-line/touch.md)
 
