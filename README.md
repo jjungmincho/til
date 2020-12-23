@@ -22,6 +22,7 @@ TILs are short markdown documents explaning concepts about computer science with
 - [UI Design](https://github.com/jjessicacho/til#ui-design)
 - [UX Design](https://github.com/jjessicacho/til#ux-design)
 - [VS Code](https://github.com/jessicajc1003/til#vscode)
+- [Web Hosting](https://github.com/jjessicacho/til#web-hosting)
 
 ---
 
@@ -257,7 +258,6 @@ TILs are short markdown documents explaning concepts about computer science with
 - [npm](https://github.com/jjessicacho/til/blob/master/nodejs/npm.md)
 - [REPL](https://github.com/jjessicacho/til/blob/master/nodejs/REPL.md)
 - [Runtime](https://github.com/jjessicacho/til/blob/master/nodejs/runtime.md)
-- [Surge](https://github.com/jjessicacho/til/blob/master/terminal/surge.md)
 - [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
 
 ### Sass
@@ -299,10 +299,12 @@ TILs are short markdown documents explaning concepts about computer science with
 - [Wireframe](https://github.com/jjessicacho/til/blob/master/ux-design/wireframe.md)
 
 ### VS Code
-
+a
 - [README Guide](https://github.com/jjessicacho/til/blob/master/vscode/_readme.md)
 - [File naming](https://github.com/jjessicacho/til/blob/master/vscode/file-naming.md)
 - [How to start VSCode?](https://github.com/jessicajc1003/til/blob/master/vscode/how-to-start.md)
 - [How to view the markdown preview?](https://github.com/jessicajc1003/til/blob/master/vscode/mark-down-preview.md)
 - [Multi-line and multi-cursor editing](https://github.com/jjessicacho/til/blob/master/vscode/option-alt.md)
 
+### Web Hosting
+- [Surge](https://github.com/jjessicacho/til/blob/master/web-hosting/surge.md)
