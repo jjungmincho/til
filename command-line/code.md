@@ -1,3 +1,9 @@
+# code .
+
+To open VSCode 
+
+OR 
+
 # How to open an entire folder with VSCode
 1. Navigate inside the folder in git bash
 2. Then run the code: `code . --new-window`
