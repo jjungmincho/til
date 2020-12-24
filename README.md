@@ -87,6 +87,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [ls](https://github.com/jjessicacho/til/blob/master/command-line/ls.md)
 - [mkdir](https://github.com/jjessicacho/til/blob/master/command-line/mkdir.md)
 - [Opening folder with VSCode](https://github.com/jjessicacho/til/blob/master/command-line/opening-folder-with-vscode.md)
+- [push](https://github.com/jjessicacho/til/blob/master/command-line/push.md)
 - [pwd](https://github.com/jjessicacho/til/blob/master/command-line/pwd.md)
 - [rm](https://github.com/jjessicacho/til/blob/master/command-line/rm.md)
 - [start](https://github.com/jjessicacho/til/blob/master/command-line/start.md)
