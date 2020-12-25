@@ -86,7 +86,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [clear](https://github.com/jjessicacho/til/blob/master/command-line/clear.md)
 - [code](https://github.com/jjessicacho/til/blob/master/command-line/code.md)
 - [config](https://github.com/jjessicacho/til/blob/master/command-line/config.md)
-- [core.autoclf](https://github.com/jjessicacho/til/blob/master/command-line/core-autoclf.md)
+- [core-autocrlf](https://github.com/jjessicacho/til/blob/master/command-line/core-autocrlf.md)
 - [dot](https://github.com/jjessicacho/til/blob/master/command-line/dot.md)
 - [echo](https://github.com/jjessicacho/til/blob/master/command-line/echo.md)
 - [filesystem](https://github.com/jjessicacho/til/blob/master/command-line/filesystem.md)
@@ -98,6 +98,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [pwd](https://github.com/jjessicacho/til/blob/master/command-line/pwd.md)
 - [rm](https://github.com/jjessicacho/til/blob/master/command-line/rm.md)
 - [start](https://github.com/jjessicacho/til/blob/master/command-line/start.md)
+- [status](https://github.com/jjessicacho/til/blob/master/command-line/status.md)
 - [the command line](https://github.com/jjessicacho/til/blob/master/command-line/the-command-line.md)
 - [touch](https://github.com/jjessicacho/til/blob/master/command-line/touch.md)
 
