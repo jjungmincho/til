@@ -80,14 +80,19 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 ### Command Line
 
+- [alias](https://github.com/jjessicacho/til/blob/master/command-line/alias.md)
 - [bash](https://github.com/jjessicacho/til/blob/master/command-line/bash.md)
 - [cd](https://github.com/jjessicacho/til/blob/master/command-line/cd.md)
 - [clear](https://github.com/jjessicacho/til/blob/master/command-line/clear.md)
 - [code](https://github.com/jjessicacho/til/blob/master/command-line/code.md)
-- [core.autoclf](https://github.com/jjessicacho/til/blob/master/command-line/core-autoclfmd)
+- [config](https://github.com/jjessicacho/til/blob/master/command-line/config.md)
+- [core.autoclf](https://github.com/jjessicacho/til/blob/master/command-line/core-autoclf.md)
+- [dot](https://github.com/jjessicacho/til/blob/master/command-line/dot.md)
 - [filesystem](https://github.com/jjessicacho/til/blob/master/command-line/filesystem.md)
+- [init](https://github.com/jjessicacho/til/blob/master/command-line/init.md)
 - [ls](https://github.com/jjessicacho/til/blob/master/command-line/ls.md)
 - [mkdir](https://github.com/jjessicacho/til/blob/master/command-line/mkdir.md)
+- [pull](https://github.com/jjessicacho/til/blob/master/command-line/pull.md)
 - [push](https://github.com/jjessicacho/til/blob/master/command-line/push.md)
 - [pwd](https://github.com/jjessicacho/til/blob/master/command-line/pwd.md)
 - [rm](https://github.com/jjessicacho/til/blob/master/command-line/rm.md)
