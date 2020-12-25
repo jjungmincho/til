@@ -1,5 +1,8 @@
-#ls
+# ls
+
 `ls`: list the contents of a particular directory
+
+- `ls -al`: list all contents
 
 ## Reference
 
