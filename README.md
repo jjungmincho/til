@@ -317,5 +317,6 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Multi-line and multi-cursor editing](https://github.com/jjessicacho/til/blob/master/vscode/option-alt.md)
 
 ### Web Hosting
+- [Domain Name](https://github.com/jjessicacho/til/blob/master/web-hosting/domain-name.md)
 - [Hosting](https://github.com/jjessicacho/til/blob/master/web-hosting/hosting.md)
 - [Surge](https://github.com/jjessicacho/til/blob/master/web-hosting/surge.md)
