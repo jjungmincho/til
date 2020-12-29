@@ -110,6 +110,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [rm](https://github.com/jjessicacho/til/blob/master/command-line/rm.md)
 - [setup](https://github.com/jjessicacho/til/blob/master/command-line/setup.md)
 - [start](https://github.com/jjessicacho/til/blob/master/command-line/start.md)
+- [stash](https://github.com/jjessicacho/til/blob/master/command-line/stash.md)
 - [status](https://github.com/jjessicacho/til/blob/master/command-line/status.md)
 - [the command line](https://github.com/jjessicacho/til/blob/master/command-line/the-command-line.md)
 - [touch](https://github.com/jjessicacho/til/blob/master/command-line/touch.md)
