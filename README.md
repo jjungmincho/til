@@ -176,6 +176,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 - [Branch](https://github.com/jjessicacho/til/blob/master/github/branch.md)
 - [Cheat sheet](https://github.com/jjessicacho/til/blob/master/github/cheatsheet.md)
+- [Clone projects to local](https://github.com/jjessicacho/til/blob/master/github/clone-projects-to-local.md)
 - [Creating a new file](https://github.com/jjessicacho/til/blob/master/github/create-new-file.md)
 - [Deploying](https://github.com/jjessicacho/til/blob/master/github/deploying.md)
 - [GitHub Pages](https://github.com/jjessicacho/til/blob/master/github/github-pages.md)
