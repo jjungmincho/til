@@ -95,6 +95,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [dot](https://github.com/jjessicacho/til/blob/master/command-line/dot.md)
 - [echo](https://github.com/jjessicacho/til/blob/master/command-line/echo.md)
 - [error](https://github.com/jjessicacho/til/blob/master/command-line/error.md)
+- [fetch](https://github.com/jjessicacho/til/blob/master/command-line/fetch.md)
 - [filesystem](https://github.com/jjessicacho/til/blob/master/command-line/filesystem.md)
 - [Git tag](https://github.com/jjessicacho/til/blob/master/command-line/git-tag.md)
 - [HEAD](https://github.com/jjessicacho/til/blob/master/command-line/head.md)
