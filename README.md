@@ -84,6 +84,8 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [add](https://github.com/jjessicacho/til/blob/master/command-line/add.md)
 - [alias](https://github.com/jjessicacho/til/blob/master/command-line/alias.md)
 - [bash](https://github.com/jjessicacho/til/blob/master/command-line/bash.md)
+- [bisect](https://github.com/jjessicacho/til/blob/master/command-line/bisect.md)
+- [blame](https://github.com/jjessicacho/til/blob/master/command-line/blame.md)
 - [branch](https://github.com/jjessicacho/til/blob/master/command-line/branch.md)
 - [cd](https://github.com/jjessicacho/til/blob/master/command-line/cd.md)
 - [checkout](https://github.com/jjessicacho/til/blob/master/command-line/checkout.md)
