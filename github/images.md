@@ -13,7 +13,12 @@ OR
 3. Wait for a bit
 4. Copy and past the link to `README.md`
 
+**There is no way to change the size of an image if the markdown format is of the form []() - so stop looking right now! - you must use `<img>` instead**
+
 ## Reference
 
 [Stackoverflow: Add images to readme.md on github](https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github)
+
 [Youtube: Add images to README.md on GitHub! by Sana Ebadi](https://www.youtube.com/watch?v=vB_Z3JjkVwU)
+
+[How to Resize an Image in Github README.md (i.e. Github Flavored Markdown) in 2020! by stevecondylios](https://gist.github.com/stevecondylios/dcadb4fc73e63f27a3bbcf17e52058bf#how-to-resize-an-image-in-github-flavored-markdown-in-2020-and-beyond)
