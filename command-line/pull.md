@@ -4,5 +4,7 @@
 
 <-> `git push`
 
+**Before creating a new branch, pull the changes from upstream. Your master needs to be up to date.**
+
 ## Reference
 [git documentation](https://git-scm.com/docs/git-pull)
