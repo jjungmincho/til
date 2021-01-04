@@ -173,16 +173,17 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [flexbox](https://github.com/jjessicacho/til/blob/master/flexbox/flexbox.md)
 
 ### Git
+- [Creating new branch](https://github.com/jjessicacho/til/blob/master/git/creating-new-branch.md)
+- [Deleting branch](https://github.com/jjessicacho/til/blob/master/git/deleting-branch.md)
 - [WIP](https://github.com/jjessicacho/til/blob/master/git/WIP.md)
 
 ### Github
 
 - [Branch](https://github.com/jjessicacho/til/blob/master/github/branch.md)
-- [Cheat sheet](https://github.com/jjessicacho/til/blob/master/github/cheatsheet.md)
 - [Clone projects to local](https://github.com/jjessicacho/til/blob/master/github/clone-projects-to-local.md)
 - [Creating a new file](https://github.com/jjessicacho/til/blob/master/github/create-new-file.md)
 - [Deploying](https://github.com/jjessicacho/til/blob/master/github/deploying.md)
-- [GitHub Pages](https://github.com/jjessicacho/til/blob/master/github/github-pages.md)
+- [Format](https://github.com/jjessicacho/til/blob/master/github/format.md)
 - [Add images](https://github.com/jjessicacho/til/blob/master/github/images.md)
 - [SSH](https://github.com/jjessicacho/til/blob/master/github/SSH.md)
 
