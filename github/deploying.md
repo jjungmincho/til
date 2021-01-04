@@ -3,12 +3,13 @@
 - Refers to Publishing 
 - Deployment is when a project is packaged and shared on the Internet. Unlike publishing
 
-## Configuring a publishing source for your GitHub Pages site
+## Configuring a publishing source for your GitHub Pages site using Github Desktop App
 
-1. Create a branch: `gh-page`
-2. Commit to `gh-page`
+0. Click New branch
+1. Create a branch: `gh-pages`
+2. Click Publish branch `gh-pages`
 3. Go to your github
-4. navigating in your browser to the URL `http://<your-github-username>.github.io`
+4. navigating in your browser to the URL `https://<your-github-username>.github.io/<project-name>`
 
 **Make sure the current branch is back to `master` when making changes in the original file after creating a branch in the Github Desktop**
 => This will allow you to ensure all of your sites are deployed automatically whenever you push to GitHub
