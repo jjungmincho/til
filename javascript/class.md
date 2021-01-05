@@ -19,6 +19,9 @@ class person{
 }
 ```
 
+- One important method that sets apart between class and object syntax: the `constructor()` method -> creates a new instance of a class
+
+
 ## Reference:
 
 [Dream Coding](https://youtu.be/_DLhUBWsRtw)
