@@ -220,6 +220,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [a href](https://github.com/jjessicacho/til/blob/master/html/a-href.md)
 - [`<a>` target attribute](https://github.com/jjessicacho/til/blob/master/html/a-target-attribute.md)
 - [aside](https://github.com/jjessicacho/til/blob/master/html/aside.md)
+- [block](https://github.com/jjessicacho/til/blob/master/html/block.md)
 - [br](https://github.com/jjessicacho/til/blob/master/html/br.md)
 - [Default homepage](https://github.com/jjessicacho/til/blob/master/html/default-homepage.md)
 - [div & span](https://github.com/jjessicacho/til/blob/master/html/div-span.md)
