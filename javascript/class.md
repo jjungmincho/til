@@ -21,7 +21,11 @@ class person{
 
 - One important method that sets apart between class and object syntax: the `constructor()` method -> creates a new instance of a class
 
+- When multiple classes share properties or methods, they become candidates for inheritance — a tool developers use to decrease the amount of code they need to write.
+
 
 ## Reference:
 
 [Dream Coding](https://youtu.be/_DLhUBWsRtw)
+
+[Codecademy](www.codecademy.com/paths/full-stack-engineer-career-path)
