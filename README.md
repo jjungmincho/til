@@ -19,6 +19,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Inspect](https://github.com/jjessicacho/til#inspect)
 - [JavaScript](https://github.com/jjessicacho/til#javascript)
 - [Node.js](https://github.com/jjessicacho/til#nodejs)
+- [Python](https://github.com/jjessicacho/til#python)
 - [Sass](https://github.com/jjessicacho/til#sass)
 - [UI Design](https://github.com/jjessicacho/til#ui-design)
 - [UX Design](https://github.com/jjessicacho/til#ux-design)
@@ -299,6 +300,10 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [REPL](https://github.com/jjessicacho/til/blob/master/nodejs/REPL.md)
 - [Runtime](https://github.com/jjessicacho/til/blob/master/nodejs/runtime.md)
 - [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
+
+## Python 
+- [comment](https://github.com/jjessicacho/til/blob/master/python/comment.md)
+- [print](https://github.com/jjessicacho/til/blob/master/python/print.md)
 
 ### Sass
 
