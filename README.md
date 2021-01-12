@@ -223,6 +223,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [aside](https://github.com/jjessicacho/til/blob/master/html/aside.md)
 - [block](https://github.com/jjessicacho/til/blob/master/html/block.md)
 - [br](https://github.com/jjessicacho/til/blob/master/html/br.md)
+- [code](https://github.com/jjessicacho/til/blob/master/html/code.md)
 - [Default homepage](https://github.com/jjessicacho/til/blob/master/html/default-homepage.md)
 - [Description](https://github.com/jjessicacho/til/blob/master/html/description.md)
 - [div & span](https://github.com/jjessicacho/til/blob/master/html/div-span.md)
@@ -307,6 +308,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 ## Python 
 - [comment](https://github.com/jjessicacho/til/blob/master/python/comment.md)
 - [print](https://github.com/jjessicacho/til/blob/master/python/print.md)
+- [username](https://github.com/jjessicacho/til/blob/master/python/username.md)
 
 ### Sass
 
