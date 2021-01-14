@@ -18,6 +18,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Internet](https://github.com/jjessicacho/til#html)
 - [Inspect](https://github.com/jjessicacho/til#inspect)
 - [JavaScript](https://github.com/jjessicacho/til#javascript)
+- [Math](https://github.com/jjessicacho/til#math)
 - [Node.js](https://github.com/jjessicacho/til#nodejs)
 - [Python](https://github.com/jjessicacho/til#python)
 - [Sass](https://github.com/jjessicacho/til#sass)
@@ -292,6 +293,9 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Toggle](https://github.com/jjessicacho/til/blob/master/javascript/toggle.md)
 - [typeof](https://github.com/jjessicacho/til/blob/master/javascript/typeof.md)
 - [Variables](https://github.com/jjessicacho/til/blob/master/javascript/variables.md)
+
+## Math
+- [Number Systems](https://github.com/jjessicacho/til/blob/master/javascript/number-systems.md)
 
 ### Node.js
 
