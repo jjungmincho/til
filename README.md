@@ -295,6 +295,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Variables](https://github.com/jjessicacho/til/blob/master/javascript/variables.md)
 
 ## Math
+- [Base 3 to Base 9](https://github.com/jjessicacho/til/blob/master/javascript/base3-base9.md)
 - [Number Systems](https://github.com/jjessicacho/til/blob/master/javascript/number-systems.md)
 
 ### Node.js
