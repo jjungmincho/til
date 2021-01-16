@@ -311,10 +311,15 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
 
 ## Python 
+- [Casting](https://github.com/jjessicacho/til/blob/master/python/casting.md)
 - [comment](https://github.com/jjessicacho/til/blob/master/python/comment.md)
+- [for](https://github.com/jjessicacho/til/blob/master/python/for.md)
+- [function](https://github.com/jjessicacho/til/blob/master/python/function.md)
 - [print](https://github.com/jjessicacho/til/blob/master/python/print.md)
+- [string](https://github.com/jjessicacho/til/blob/master/python/string.md)
 - [username](https://github.com/jjessicacho/til/blob/master/python/username.md)
 - [variables](https://github.com/jjessicacho/til/blob/master/python/variables.md)
+- [while](https://github.com/jjessicacho/til/blob/master/python/while.md)
 
 ### Sass
 
