@@ -313,10 +313,13 @@ TILs are short markdown documents explaining concepts about computer science wit
 ## Python 
 - [Casting](https://github.com/jjessicacho/til/blob/master/python/casting.md)
 - [comment](https://github.com/jjessicacho/til/blob/master/python/comment.md)
+- [dict](https://github.com/jjessicacho/til/blob/master/python/dict.md)
 - [for](https://github.com/jjessicacho/til/blob/master/python/for.md)
 - [function](https://github.com/jjessicacho/til/blob/master/python/function.md)
 - [print](https://github.com/jjessicacho/til/blob/master/python/print.md)
+- [list](https://github.com/jjessicacho/til/blob/master/python/list.md)
 - [string](https://github.com/jjessicacho/til/blob/master/python/string.md)
+- [tuple](https://github.com/jjessicacho/til/blob/master/python/tuple.md)
 - [username](https://github.com/jjessicacho/til/blob/master/python/username.md)
 - [variables](https://github.com/jjessicacho/til/blob/master/python/variables.md)
 - [while](https://github.com/jjessicacho/til/blob/master/python/while.md)
