@@ -312,6 +312,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 ## Python 
 - [Casting](https://github.com/jjessicacho/til/blob/master/python/casting.md)
+- [class](https://github.com/jjessicacho/til/blob/master/python/class.md)
 - [comment](https://github.com/jjessicacho/til/blob/master/python/comment.md)
 - [dict](https://github.com/jjessicacho/til/blob/master/python/dict.md)
 - [for](https://github.com/jjessicacho/til/blob/master/python/for.md)
