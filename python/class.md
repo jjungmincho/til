@@ -38,4 +38,4 @@ micheal.program("email client")
 ```
 
 ## Reference
-[Finish Python in 1 hour by Teccboi Wonie](https://www.youtube.com/watch?v=M6kQTpIqpLs&t=4589s&ab_channel=TeccboiWonie)
+[YouTube: Finish Python in 1 hour by Teccboi Wonie](https://www.youtube.com/watch?v=M6kQTpIqpLs&t=4589s&ab_channel=TeccboiWonie)
