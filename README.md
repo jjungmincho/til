@@ -327,6 +327,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [username](https://github.com/jjessicacho/til/blob/master/python/username.md)
 - [variables](https://github.com/jjessicacho/til/blob/master/python/variables.md)
 - [while](https://github.com/jjessicacho/til/blob/master/python/while.md)
+- [whitespace](https://github.com/jjessicacho/til/blob/master/python/whitespace.md)
 
 ### Sass
 
