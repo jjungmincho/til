@@ -1,0 +1,3 @@
+# sum()
+
+`sum()` - add all
