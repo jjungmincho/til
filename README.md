@@ -241,6 +241,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Inline](https://github.com/jjessicacho/til/blob/master/html/inline.md)
 - [Meta charset = utf-8](https://github.com/jjessicacho/til/blob/master/html/meta-charset-utf-8.md)
 - [Path](https://github.com/jjessicacho/til/blob/master/html/path.md)
+- [Print](https://github.com/jjessicacho/til/blob/master/html/print.md)
 - [Semantic](https://github.com/jjessicacho/til/blob/master/html/semantic.md)
 - [Table](https://github.com/jjessicacho/til/blob/master/html/table.md)
 - [Tooltips & titles](https://github.com/jjessicacho/til/blob/master/html/tooltip-title.md)
