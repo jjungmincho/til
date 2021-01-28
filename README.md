@@ -152,6 +152,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Reset](https://github.com/jjessicacho/til/blob/master/css/reset.md)
 - [Responsive Grid](https://github.com/jjessicacho/til/blob/master/css/responsive-grid.md)
 - [Root](https://github.com/jjessicacho/til/blob/master/css/root.md)
+- [specificity](https://github.com/jjessicacho/til/blob/master/css/specificity.md)
 - [Structure](https://github.com/jjessicacho/til/blob/master/css/structure.md)
 
 ### Debugging
