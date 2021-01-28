@@ -326,6 +326,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [print](https://github.com/jjessicacho/til/blob/master/python/print.md)
 - [return](https://github.com/jjessicacho/til/blob/master/python/return.md)
 - [sorted](https://github.com/jjessicacho/til/blob/master/python/sorted.md)
+- [string](https://github.com/jjessicacho/til/blob/master/python/string.md)
 - [sum](https://github.com/jjessicacho/til/blob/master/python/sum.md)
 - [list](https://github.com/jjessicacho/til/blob/master/python/list.md)
 - [module](https://github.com/jjessicacho/til/blob/master/python/module.md)
