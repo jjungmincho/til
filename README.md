@@ -329,6 +329,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [string](https://github.com/jjessicacho/til/blob/master/python/string.md)
 - [sum](https://github.com/jjessicacho/til/blob/master/python/sum.md)
 - [list](https://github.com/jjessicacho/til/blob/master/python/list.md)
+- [Logical Operator](https://github.com/jjessicacho/til/blob/master/python/logical-operator.md)
 - [module](https://github.com/jjessicacho/til/blob/master/python/module.md)
 - [Multiline Strings](https://github.com/jjessicacho/til/blob/master/python/multiline-strings.md)
 - [package](https://github.com/jjessicacho/til/blob/master/python/package.md)
