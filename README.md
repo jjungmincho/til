@@ -300,6 +300,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Base 3 to Base 9](https://github.com/jjessicacho/til/blob/master/math/base3-base9.md)
 - [Excess-K-Form](https://github.com/jjessicacho/til/blob/master/math/excess-k-form.md)
 - [Number Systems](https://github.com/jjessicacho/til/blob/master/math/number-systems.md)
+- [Ten bit format](https://github.com/jjessicacho/til/blob/master/math/ten-bit-format.md)
 
 ### Node.js
 
