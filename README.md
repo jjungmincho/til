@@ -261,6 +261,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Argument](https://github.com/jjessicacho/til/blob/master/javascript/argument.md)
 - [Array](https://github.com/jjessicacho/til/blob/master/javascript/array.md)
 - [Audio: How to play game audio in JS?](https://github.com/jjessicacho/til/blob/master/javascript/audio.md)
+- [Boolean-flag](https://github.com/jjessicacho/til/blob/master/javascript/boolean-flag.md)
 - [Boolean](https://github.com/jjessicacho/til/blob/master/javascript/boolean.md)
 - [Call stack](https://github.com/jjessicacho/til/blob/master/javascript/call-stack.md)
 - [Callback](https://github.com/jjessicacho/til/blob/master/javascript/callback.md)
