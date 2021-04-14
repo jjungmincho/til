@@ -19,6 +19,8 @@ Node is great!
 undefined
 ```
 
+* To exit the REPL: `ctrl + D`
+
 ## Reference
 
 [Codecademy](https://www.codecademy.com/paths/full-stack-engineer-career-path/tracks/fscp-javascript-syntax-part-i/modules/fscp-running-javascript/articles/what-is-node)
