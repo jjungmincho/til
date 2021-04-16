@@ -312,6 +312,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Module](https://github.com/jjessicacho/til/blob/master/nodejs/module.md)
 - [Node.js](https://github.com/jjessicacho/til/blob/master/nodejs/nodejs.md)
 - [npm](https://github.com/jjessicacho/til/blob/master/nodejs/npm.md)
+- [process](https://github.com/jjessicacho/til/blob/master/nodejs/process.md)
 - [REPL](https://github.com/jjessicacho/til/blob/master/nodejs/REPL.md)
 - [Runtime](https://github.com/jjessicacho/til/blob/master/nodejs/runtime.md)
 - [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
