@@ -188,6 +188,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Deploying](https://github.com/jjessicacho/til/blob/master/github/deploying.md)
 - [Format](https://github.com/jjessicacho/til/blob/master/github/format.md)
 - [Add images](https://github.com/jjessicacho/til/blob/master/github/images.md)
+- [Markdown](https://github.com/jjessicacho/til/blob/master/github/markdown.md)
 - [SSH](https://github.com/jjessicacho/til/blob/master/github/SSH.md)
 
 ### Hardware
