@@ -279,6 +279,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Hoisting](https://github.com/jjessicacho/til/blob/master/javascript/hoisting.md)
 - [if, else and or](https://github.com/jjessicacho/til/blob/master/javascript/ifelse.md)
 - [iterator](https://github.com/jjessicacho/til/blob/master/javascript/iterator.md)
+- [js modules](https://github.com/jjessicacho/til/blob/master/javascript/js-modules.md)
 - [json](https://github.com/jjessicacho/til/blob/master/javascript/json.md)
 - [Library and framework](https://github.com/jjessicacho/til/blob/master/javascript/library-framework.md)
 - [Limitation (What JS Cannot Do)](https://github.com/jjessicacho/til/blob/master/javascript/limitation.md)
