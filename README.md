@@ -274,6 +274,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [DOM](https://github.com/jjessicacho/til/blob/master/javascript/dom.md)
 - [ECMAScript](https://github.com/jjessicacho/til/blob/master/javascript/ecma.md)
 - [Event](https://github.com/jjessicacho/til/blob/master/javascript/event.md)
+- [For...of Loop](https://github.com/jjessicacho/til/blob/master/javascript/for-of-loop.md)
 - [Getter and Setter](https://github.com/jjessicacho/til/blob/master/javascript/getter-setter.md)
 - [Heap](https://github.com/jjessicacho/til/blob/master/javascript/heap.md)
 - [Hoisting](https://github.com/jjessicacho/til/blob/master/javascript/hoisting.md)
