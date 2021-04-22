@@ -127,6 +127,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 ### CSS
 
+- [Attribute](https://github.com/jjessicacho/til/blob/master/css/attribute.md)
 - [box-display](https://github.com/jjessicacho/til/blob/master/css/box-display.md)
 - [box-sizing](https://github.com/jjessicacho/til/blob/master/css/box-sizing.md)
 - [Breadcrumb](https://github.com/jjessicacho/til/blob/master/css/breadcrumb.md)
