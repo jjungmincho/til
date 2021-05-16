@@ -303,7 +303,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [typeof](https://github.com/jjessicacho/til/blob/master/javascript/typeof.md)
 - [Variables](https://github.com/jjessicacho/til/blob/master/javascript/variables.md)
 
-## Math
+### Math
 - [Base 3 to Base 9](https://github.com/jjessicacho/til/blob/master/math/base3-base9.md)
 - [Excess-K-Form](https://github.com/jjessicacho/til/blob/master/math/excess-k-form.md)
 - [Number Systems](https://github.com/jjessicacho/til/blob/master/math/number-systems.md)
@@ -323,7 +323,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Runtime](https://github.com/jjessicacho/til/blob/master/nodejs/runtime.md)
 - [version-of-node](https://github.com/jjessicacho/til/blob/master/nodejs/version-of-node.md)
 
-## Python 
+### Python 
 - [Casting](https://github.com/jjessicacho/til/blob/master/python/casting.md)
 - [class](https://github.com/jjessicacho/til/blob/master/python/class.md)
 - [comment](https://github.com/jjessicacho/til/blob/master/python/comment.md)
