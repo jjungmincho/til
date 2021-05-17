@@ -379,6 +379,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 - [Brainstorming](https://github.com/jjessicacho/til/blob/master/ux-design/brainstorming.md)
 - [How to collect data?](https://github.com/jjessicacho/til/blob/master/ux-design/collecting-data.md)
+- [Take full screenshots](https://github.com/jjessicacho/til/blob/master/ux-design/full-screenshot.md)
 - [What is a good design?](https://github.com/jjessicacho/til/blob/master/ux-design/good-design.md)
 - [Hero](https://github.com/jjessicacho/til/blob/master/ux-design/hero.md)
 - [the Why, What and How of Product Use](https://github.com/jjessicacho/til/blob/master/ux-design/planning.md)
