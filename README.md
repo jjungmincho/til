@@ -180,6 +180,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 ### Git
 - [Creating new branch](https://github.com/jjessicacho/til/blob/master/git/creating-new-branch.md)
 - [Deleting branch](https://github.com/jjessicacho/til/blob/master/git/deleting-branch.md)
+- [Removing git commit](https://github.com/jjessicacho/til/blob/master/git/removing-git-commit.md)
 - [WIP](https://github.com/jjessicacho/til/blob/master/git/WIP.md)
 
 ### Github
