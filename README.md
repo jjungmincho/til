@@ -7,10 +7,8 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Bootstrap](https://github.com/jjungmincho/til#bootstrap)
 - [C](https://github.com/jjungmincho/til#c)
 - [Code Foundation](https://github.com/jjungmincho/til#code-foundation)
-- [Command Line](https://github.com/jjungmincho/til#command-line)
 - [CSS](https://github.com/jjungmincho/til#css)
 - [DOM](https://github.com/jjungmincho/til#dom)
-- [Flexbox](https://github.com/jjungmincho/til#flexbox)
 - [Git](https://github.com/jjungmincho/til#git)
 - [Github](https://github.com/jjungmincho/til#github)
 - [Hardware](https://github.com/jjungmincho/til#hardware)
@@ -22,8 +20,6 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Node.js](https://github.com/jjungmincho/til#nodejs)
 - [Python](https://github.com/jjungmincho/til#python)
 - [Sass](https://github.com/jjungmincho/til#sass)
-- [UI Design](https://github.com/jjungmincho/til#ui-design)
-- [UX Design](https://github.com/jjungmincho/til#ux-design)
 - [VS Code](https://github.com/jjungmincho/til#vscode)
 - [Web Hosting](https://github.com/jjungmincho/til#web-hosting)
 
@@ -76,7 +72,71 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Syntax](https://github.com/jjungmincho/til/blob/master/code-foundation/syntax.md)
 - [Variables](https://github.com/jjungmincho/til/blob/master/code-foundation/variables.md)
 
-### Command Line
+----
+### CSS
+
+- [Attribute](https://github.com/jjungmincho/til/blob/master/css/attribute.md)
+- [box-display](https://github.com/jjungmincho/til/blob/master/css/box-display.md)
+- [box-sizing](https://github.com/jjungmincho/til/blob/master/css/box-sizing.md)
+- [Breadcrumb](https://github.com/jjungmincho/til/blob/master/css/breadcrumb.md)
+- [Chaining](https://github.com/jjungmincho/til/blob/master/css/chaining.md)
+- [Comment](https://github.com/jjungmincho/til/blob/master/css/comment.md)
+- [dpi](https://github.com/jjungmincho/til/blob/master/css/dpi.md)
+- [em](https://github.com/jjungmincho/til/blob/master/css/em.md)
+- [fallback](https://github.com/jjungmincho/til/blob/master/css/fallback.md)
+- [How to center features using flexbox](https://github.com/jjungmincho/til/blob/master/css/flexbox-center.md)
+- [folder path](https://github.com/jjungmincho/til/blob/master/css/folder-path.md)
+- [grid](https://github.com/jjungmincho/til/blob/master/css/grid.md)
+- [hsl](https://github.com/jjungmincho/til/blob/master/css/hsl.md)
+- [Ways to import fonts](https://github.com/jjungmincho/til/blob/master/css/hsl.md)
+- [Link](https://github.com/jjungmincho/til/blob/master/css/link.md)
+- [margin: 0 auto;](https://github.com/jjungmincho/til/blob/master/css/margin-0-auto.md)
+- [Multiple classes](https://github.com/jjungmincho/til/blob/master/css/multiple-classes.md)
+- [Nested elements](https://github.com/jjungmincho/til/blob/master/css/nested-elements.md)
+- [Overflow](https://github.com/jjungmincho/til/blob/master/css/overflow.md)
+- [Overlay](https://github.com/jjungmincho/til/blob/master/css/overlay.md)
+- [Pagex/y vs Clientx/y vs Screenx/y](https://github.com/jjungmincho/til/blob/master/css/page-client-screen.md)
+- [Pseudo selectors](https://github.com/jjungmincho/til/blob/master/css/pseudo-selectors.md)
+- [Rainbow Text](https://github.com/jjungmincho/til/blob/master/css/rainbow-text.md)
+- [rem](https://github.com/jjungmincho/til/blob/master/css/rem.md)
+- [Reset](https://github.com/jjungmincho/til/blob/master/css/reset.md)
+- [Responsive Grid](https://github.com/jjungmincho/til/blob/master/css/responsive-grid.md)
+- [Root](https://github.com/jjungmincho/til/blob/master/css/root.md)
+- [specificity](https://github.com/jjungmincho/til/blob/master/css/specificity.md)
+- [Structure](https://github.com/jjungmincho/til/blob/master/css/structure.md)
+
+
+#### Flexbox
+
+- [flex-basis](https://github.com/jjungmincho/til/blob/master/flexbox/flex-basis.md)
+- [flex-grow](https://github.com/jjungmincho/til/blob/master/flexbox/flex-grow.md)
+- [flex-shrink](https://github.com/jjungmincho/til/blob/master/flexbox/flex-shrink.md)
+- [flex](https://github.com/jjungmincho/til/blob/master/flexbox/flex.md)
+- [flexbox](https://github.com/jjungmincho/til/blob/master/flexbox/flexbox.md)
+
+---
+
+### Debugging
+
+- [performance](https://github.com/jjungmincho/til/blob/master/debugging/performance.md)
+
+### DOM
+
+- [\$0](https://github.com/jjungmincho/til/blob/master/dom/%240.md)
+- [CSSOM](https://github.com/jjungmincho/til/blob/master/dom/cssom.md)
+- [DOM](https://github.com/jjungmincho/til/blob/master/dom/dom.md)
+- [HTML DOM](https://github.com/jjungmincho/til/blob/master/dom/html-dom.md)
+- [will-change](https://github.com/jjungmincho/til/blob/master/dom/will-change.md)
+
+---
+### Git
+
+- [Creating new branch](https://github.com/jjungmincho/til/blob/master/git/creating-new-branch.md)
+- [Deleting branch](https://github.com/jjungmincho/til/blob/master/git/deleting-branch.md)
+- [Removing git commit](https://github.com/jjungmincho/til/blob/master/git/removing-git-commit.md)
+- [WIP](https://github.com/jjungmincho/til/blob/master/git/WIP.md)
+
+#### Command Line
 
 - [add](https://github.com/jjungmincho/til/blob/master/command-line/add.md)
 - [alias](https://github.com/jjungmincho/til/blob/master/command-line/alias.md)
@@ -119,65 +179,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [status](https://github.com/jjungmincho/til/blob/master/command-line/status.md)
 - [touch](https://github.com/jjungmincho/til/blob/master/command-line/touch.md)
 
-
-### CSS
-
-- [Attribute](https://github.com/jjungmincho/til/blob/master/css/attribute.md)
-- [box-display](https://github.com/jjungmincho/til/blob/master/css/box-display.md)
-- [box-sizing](https://github.com/jjungmincho/til/blob/master/css/box-sizing.md)
-- [Breadcrumb](https://github.com/jjungmincho/til/blob/master/css/breadcrumb.md)
-- [Chaining](https://github.com/jjungmincho/til/blob/master/css/chaining.md)
-- [Comment](https://github.com/jjungmincho/til/blob/master/css/comment.md)
-- [dpi](https://github.com/jjungmincho/til/blob/master/css/dpi.md)
-- [em](https://github.com/jjungmincho/til/blob/master/css/em.md)
-- [fallback](https://github.com/jjungmincho/til/blob/master/css/fallback.md)
-- [How to center features using flexbox](https://github.com/jjungmincho/til/blob/master/css/flexbox-center.md)
-- [folder path](https://github.com/jjungmincho/til/blob/master/css/folder-path.md)
-- [grid](https://github.com/jjungmincho/til/blob/master/css/grid.md)
-- [hsl](https://github.com/jjungmincho/til/blob/master/css/hsl.md)
-- [Ways to import fonts](https://github.com/jjungmincho/til/blob/master/css/hsl.md)
-- [Link](https://github.com/jjungmincho/til/blob/master/css/link.md)
-- [margin: 0 auto;](https://github.com/jjungmincho/til/blob/master/css/margin-0-auto.md)
-- [Multiple classes](https://github.com/jjungmincho/til/blob/master/css/multiple-classes.md)
-- [Nested elements](https://github.com/jjungmincho/til/blob/master/css/nested-elements.md)
-- [Overflow](https://github.com/jjungmincho/til/blob/master/css/overflow.md)
-- [Overlay](https://github.com/jjungmincho/til/blob/master/css/overlay.md)
-- [Pagex/y vs Clientx/y vs Screenx/y](https://github.com/jjungmincho/til/blob/master/css/page-client-screen.md)
-- [Pseudo selectors](https://github.com/jjungmincho/til/blob/master/css/pseudo-selectors.md)
-- [Rainbow Text](https://github.com/jjungmincho/til/blob/master/css/rainbow-text.md)
-- [rem](https://github.com/jjungmincho/til/blob/master/css/rem.md)
-- [Reset](https://github.com/jjungmincho/til/blob/master/css/reset.md)
-- [Responsive Grid](https://github.com/jjungmincho/til/blob/master/css/responsive-grid.md)
-- [Root](https://github.com/jjungmincho/til/blob/master/css/root.md)
-- [specificity](https://github.com/jjungmincho/til/blob/master/css/specificity.md)
-- [Structure](https://github.com/jjungmincho/til/blob/master/css/structure.md)
-
-### Debugging
-
-- [performance](https://github.com/jjungmincho/til/blob/master/debugging/performance.md)
-
-### DOM
-
-- [\$0](https://github.com/jjungmincho/til/blob/master/dom/%240.md)
-- [CSSOM](https://github.com/jjungmincho/til/blob/master/dom/cssom.md)
-- [DOM](https://github.com/jjungmincho/til/blob/master/dom/dom.md)
-- [HTML DOM](https://github.com/jjungmincho/til/blob/master/dom/html-dom.md)
-- [will-change](https://github.com/jjungmincho/til/blob/master/dom/will-change.md)
-
-### Flexbox
-
-- [flex-basis](https://github.com/jjungmincho/til/blob/master/flexbox/flex-basis.md)
-- [flex-grow](https://github.com/jjungmincho/til/blob/master/flexbox/flex-grow.md)
-- [flex-shrink](https://github.com/jjungmincho/til/blob/master/flexbox/flex-shrink.md)
-- [flex](https://github.com/jjungmincho/til/blob/master/flexbox/flex.md)
-- [flexbox](https://github.com/jjungmincho/til/blob/master/flexbox/flexbox.md)
-
-### Git
-- [Creating new branch](https://github.com/jjungmincho/til/blob/master/git/creating-new-branch.md)
-- [Deleting branch](https://github.com/jjungmincho/til/blob/master/git/deleting-branch.md)
-- [Removing git commit](https://github.com/jjungmincho/til/blob/master/git/removing-git-commit.md)
-- [WIP](https://github.com/jjungmincho/til/blob/master/git/WIP.md)
-
+---
 ### Github
 
 - [Branch](https://github.com/jjungmincho/til/blob/master/github/branch.md)
@@ -356,36 +358,6 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [SASS](https://github.com/jjungmincho/til/blob/master/sass/sass.md)
 - [SCSS](https://github.com/jjungmincho/til/blob/master/sass/scss.md)
 - [Sass Type](https://github.com/jjungmincho/til/blob/master/sass/type.md)
-
-
-### UI Design
-
-- [Alignment](https://github.com/jjungmincho/til/blob/master/ui-design/alignment.md)
-- [Color Schemes](https://github.com/jjungmincho/til/blob/master/ui-design/color-schemes.md)
-- [Color symbolism](https://github.com/jjungmincho/til/blob/master/ui-design/color-symbolism.md)
-- [Contrast](https://github.com/jjungmincho/til/blob/master/ui-design/contrast.md)
-- [Scale](https://github.com/jjungmincho/til/blob/master/ui-design/scale.md)
-- [Text Readability](https://github.com/jjungmincho/til/blob/master/ui-design/text-readability.md)
-- [Typography](https://github.com/jjungmincho/til/blob/master/ui-design/typography.md)
-- [UI definition](https://github.com/jjungmincho/til/blob/master/ui-design/ui.md)
-- [Visual hierarchy](https://github.com/jjungmincho/til/blob/master/ui-design/visual-hierarchy.md)
-- [WCAG 2.0](https://github.com/jjungmincho/til/blob/master/ui-design/wcag.md)
-- [White space](https://github.com/jjungmincho/til/blob/master/ui-design/white-space.md)
-
-### UX Design
-
-- [Brainstorming](https://github.com/jjungmincho/til/blob/master/ux-design/brainstorming.md)
-- [How to collect data?](https://github.com/jjungmincho/til/blob/master/ux-design/collecting-data.md)
-- [Take full screenshots](https://github.com/jjungmincho/til/blob/master/ux-design/full-screenshot.md)
-- [What is a good design?](https://github.com/jjungmincho/til/blob/master/ux-design/good-design.md)
-- [Hero](https://github.com/jjungmincho/til/blob/master/ux-design/hero.md)
-- [the Why, What and How of Product Use](https://github.com/jjungmincho/til/blob/master/ux-design/planning.md)
-- [Process of UX Design](https://github.com/jjungmincho/til/blob/master/ux-design/process.md)
-- [Prototype](https://github.com/jjungmincho/til/blob/master/ux-design/prototype.md)
-- [Reporting](https://github.com/jjungmincho/til/blob/master/ux-design/reporting.md)
-- [Research](https://github.com/jjungmincho/til/blob/master/ux-design/research.md)
-- [UX definition](https://github.com/jjungmincho/til/blob/master/ux-design/ux.md)
-- [Wireframe](https://github.com/jjungmincho/til/blob/master/ux-design/wireframe.md)
 
 ### VS Code
 - [README Guide](https://github.com/jjungmincho/til/blob/master/vscode/_readme.md)
