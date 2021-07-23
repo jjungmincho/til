@@ -84,10 +84,12 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [bisect](https://github.com/jjungmincho/til/blob/master/command-line/bisect.md)
 - [blame](https://github.com/jjungmincho/til/blob/master/command-line/blame.md)
 - [branch](https://github.com/jjungmincho/til/blob/master/command-line/branch.md)
+- [cat](https://github.com/jjungmincho/til/blob/master/command-line/cat.md)
 - [cd](https://github.com/jjungmincho/til/blob/master/command-line/cd.md)
 - [checkout](https://github.com/jjungmincho/til/blob/master/command-line/checkout.md)
 - [clear](https://github.com/jjungmincho/til/blob/master/command-line/clear.md)
 - [code](https://github.com/jjungmincho/til/blob/master/command-line/code.md)
+- [commit](https://github.com/jjungmincho/til/blob/master/command-line/commit.md)
 - [config](https://github.com/jjungmincho/til/blob/master/command-line/config.md)
 - [core-autocrlf](https://github.com/jjungmincho/til/blob/master/command-line/core-autocrlf.md)
 - [diff](https://github.com/jjungmincho/til/blob/master/command-line/diff.md)
@@ -104,7 +106,6 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [mkdir](https://github.com/jjungmincho/til/blob/master/command-line/mkdir.md)
 - [mv](https://github.com/jjungmincho/til/blob/master/command-line/mv.md)
 - [pull](https://github.com/jjungmincho/til/blob/master/command-line/pull.md)
-- [push](https://github.com/jjungmincho/til/blob/master/command-line/push.md)
 - [pwd](https://github.com/jjungmincho/til/blob/master/command-line/pwd.md)
 - [q](https://github.com/jjungmincho/til/blob/master/command-line/q.md)
 - [rebase](https://github.com/jjungmincho/til/blob/master/command-line/rebase.md)
@@ -116,7 +117,6 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [start](https://github.com/jjungmincho/til/blob/master/command-line/start.md)
 - [stash](https://github.com/jjungmincho/til/blob/master/command-line/stash.md)
 - [status](https://github.com/jjungmincho/til/blob/master/command-line/status.md)
-- [the command line](https://github.com/jjungmincho/til/blob/master/command-line/the-command-line.md)
 - [touch](https://github.com/jjungmincho/til/blob/master/command-line/touch.md)
 
 
@@ -182,10 +182,10 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 - [Branch](https://github.com/jjungmincho/til/blob/master/github/branch.md)
 - [Clone projects to local](https://github.com/jjungmincho/til/blob/master/github/clone-projects-to-local.md)
+- [How to commit github using Git Commands](https://github.com/jjungmincho/til/blob/master/github/commit-to-github.md)
 - [Creating a new file](https://github.com/jjungmincho/til/blob/master/github/create-new-file.md)
 - [Deploying](https://github.com/jjungmincho/til/blob/master/github/deploying.md)
 - [Format](https://github.com/jjungmincho/til/blob/master/github/format.md)
-
 - [Github Pages](https://github.com/jjungmincho/til/blob/master/github/githubPages.md)
 - [Add images](https://github.com/jjungmincho/til/blob/master/github/images.md)
 - [Markdown](https://github.com/jjungmincho/til/blob/master/github/markdown.md)
