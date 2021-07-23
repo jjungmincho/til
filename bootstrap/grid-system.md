@@ -6,6 +6,17 @@ If you do not want to use all 12 column individually, you can group the columns 
 
 Bootstrap's grid system is responsive, and the columns will re-arrange depending on the screen size: On a big screen it might look better with the content organized in three columns, but on a small screen it would be better if the content items were stacked on top of each other.
 
+```
+<div class="container">
+    <div class="row">
+        <div class="col">
+
+        </div>
+    </div>
+</div>
+
+```
+
 ## Reference
 
 [w3school](https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp)

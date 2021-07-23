@@ -31,22 +31,17 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 ### Bootstrap
 
-- [Bootstrap](https://github.com/jjungmincho/til/blob/master/bootstrap/bootstrap.md)
-- [Bootstrap CDN](https://github.com/jjungmincho/til/blob/master/bootstrap/bootstrapCDN.md)
 - [Breakpoint](https://github.com/jjungmincho/til/blob/master/bootstrap/breakpoint.md)
 - [Button](https://github.com/jjungmincho/til/blob/master/bootstrap/button.md)
 - [Cards](https://github.com/jjungmincho/til/blob/master/bootstrap/cards.md)
 - [Collapse](https://github.com/jjungmincho/til/blob/master/bootstrap/collapse.md)
-- [CSS](https://github.com/jjungmincho/til/blob/master/bootstrap/css.md)
 - [Disabled State](https://github.com/jjungmincho/til/blob/master/bootstrap/disabled-state.md)
 - [Dropdown](https://github.com/jjungmincho/til/blob/master/bootstrap/dropdown.md)
 - [Fixed Top + Bottom](https://github.com/jjungmincho/til/blob/master/bootstrap/fixed.md)
 - [Font weight and italics](https://github.com/jjungmincho/til/blob/master/bootstrap/font-weight-italics.md)
-- [Grid](https://github.com/jjungmincho/til/blob/master/bootstrap/grid.md)
 - [Grid Classes](https://github.com/jjungmincho/til/blob/master/bootstrap/grid-classes.md)
 - [Grid Option](https://github.com/jjungmincho/til/blob/master/bootstrap/grid-option.md)
 - [Grid System](https://github.com/jjungmincho/til/blob/master/bootstrap/grid-system.md)
-- [JS](https://github.com/jjungmincho/til/blob/master/bootstrap/js.md)
 - [Jumpbotron](https://github.com/jjungmincho/til/blob/master/bootstrap/jumpbotron.md)
 - [Nav](https://github.com/jjungmincho/til/blob/master/bootstrap/nav.md)
 - [Navbar](https://github.com/jjungmincho/til/blob/master/bootstrap/navbar.md)
