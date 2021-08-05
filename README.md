@@ -134,6 +134,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Creating new branch](https://github.com/jjungmincho/til/blob/master/git/creating-new-branch.md)
 - [Deleting branch](https://github.com/jjungmincho/til/blob/master/git/deleting-branch.md)
 - [Removing git commit](https://github.com/jjungmincho/til/blob/master/git/removing-git-commit.md)
+- [Undo Git Push](https://github.com/jjungmincho/til/blob/master/git/undo-git-push.md)
 - [WIP](https://github.com/jjungmincho/til/blob/master/git/WIP.md)
 
 #### Command Line
