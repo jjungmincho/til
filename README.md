@@ -241,6 +241,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Global image](https://github.com/jjungmincho/til/blob/master/html/global-img.md)
 - [Heading](https://github.com/jjungmincho/til/blob/master/html/heading.md)
 - [HTML](https://github.com/jjungmincho/til/blob/master/html/html.md)
+- [Image Links](https://github.com/jjungmincho/til/blob/master/html/image-link.md)
 - [Image types](https://github.com/jjungmincho/til/blob/master/html/image-types.md)
 - [Inline](https://github.com/jjungmincho/til/blob/master/html/inline.md)
 - [Meta charset = utf-8](https://github.com/jjungmincho/til/blob/master/html/meta-charset-utf-8.md)
