@@ -296,6 +296,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Object](https://github.com/jjungmincho/til/blob/master/javascript/object.md)
 - [Operator](https://github.com/jjungmincho/til/blob/master/javascript/operator.md)
 - [Parameter](https://github.com/jjungmincho/til/blob/master/javascript/parameter.md)
+- [Polyfill](https://github.com/jjungmincho/til/blob/master/javascript/polyfill.md)
 - [Print](https://github.com/jjungmincho/til/blob/master/javascript/print.md)
 - [Promise](https://github.com/jjungmincho/til/blob/master/javascript/promise.md)
 - [Queue](https://github.com/jjungmincho/til/blob/master/javascript/queue.md)
