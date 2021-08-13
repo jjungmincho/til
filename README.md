@@ -80,6 +80,8 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [box-sizing](https://github.com/jjungmincho/til/blob/master/css/box-sizing.md)
 - [Breadcrumb](https://github.com/jjungmincho/til/blob/master/css/breadcrumb.md)
 - [Chaining](https://github.com/jjungmincho/til/blob/master/css/chaining.md)
+- [Clamp](https://github.com/jjungmincho/til/blob/master/css/clamp.md)
+- [Clip-path](https://github.com/jjungmincho/til/blob/master/css/clip-path.md)
 - [Comment](https://github.com/jjungmincho/til/blob/master/css/comment.md)
 - [dpi](https://github.com/jjungmincho/til/blob/master/css/dpi.md)
 - [em](https://github.com/jjungmincho/til/blob/master/css/em.md)
