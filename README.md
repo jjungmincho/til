@@ -155,6 +155,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [commit](https://github.com/jjungmincho/til/blob/master/command-line/commit.md)
 - [config](https://github.com/jjungmincho/til/blob/master/command-line/config.md)
 - [core-autocrlf](https://github.com/jjungmincho/til/blob/master/command-line/core-autocrlf.md)
+- [cp](https://github.com/jjungmincho/til/blob/master/command-line/cp.md)
 - [diff](https://github.com/jjungmincho/til/blob/master/command-line/diff.md)
 - [dot](https://github.com/jjungmincho/til/blob/master/command-line/dot.md)
 - [echo](https://github.com/jjungmincho/til/blob/master/command-line/echo.md)
