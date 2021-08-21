@@ -163,6 +163,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [fetch](https://github.com/jjungmincho/til/blob/master/command-line/fetch.md)
 - [filesystem](https://github.com/jjungmincho/til/blob/master/command-line/filesystem.md)
 - [Git tag](https://github.com/jjungmincho/til/blob/master/command-line/git-tag.md)
+- [Grep](https://github.com/jjungmincho/til/blob/master/command-line/grep.md)
 - [HEAD](https://github.com/jjungmincho/til/blob/master/command-line/head.md)
 - [init](https://github.com/jjungmincho/til/blob/master/command-line/init.md)
 - [ls](https://github.com/jjungmincho/til/blob/master/command-line/ls.md)
@@ -177,11 +178,14 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [reset](https://github.com/jjungmincho/til/blob/master/command-line/reset.md)
 - [revert](https://github.com/jjungmincho/til/blob/master/command-line/revert.md)
 - [rm](https://github.com/jjungmincho/til/blob/master/command-line/rm.md)
+- [Sed](https://github.com/jjungmincho/til/blob/master/command-line/sed.md)
 - [setup](https://github.com/jjungmincho/til/blob/master/command-line/setup.md)
+- [Sort](https://github.com/jjungmincho/til/blob/master/command-line/sort.md)
 - [start](https://github.com/jjungmincho/til/blob/master/command-line/start.md)
 - [stash](https://github.com/jjungmincho/til/blob/master/command-line/stash.md)
 - [status](https://github.com/jjungmincho/til/blob/master/command-line/status.md)
 - [touch](https://github.com/jjungmincho/til/blob/master/command-line/touch.md)
+- [Uniq](https://github.com/jjungmincho/til/blob/master/command-line/uniq.md)
 
 ---
 ### Github
