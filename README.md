@@ -384,4 +384,4 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Surge](https://github.com/jjungmincho/til/blob/master/web-hosting/surge.md)
 
 ### WordPress
-- [How to embed instagram to page](https://github.com/jjungmincho/til/blob/master/web-hosting/embed-instagram.md)
+- [How to embed instagram to page](https://github.com/jjungmincho/til/blob/master/wordpress/embed-instagram.md)
