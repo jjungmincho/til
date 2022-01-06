@@ -22,6 +22,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Sass](https://github.com/jjungmincho/til#sass)
 - [VS Code](https://github.com/jjungmincho/til#vscode)
 - [Web Hosting](https://github.com/jjungmincho/til#web-hosting)
+- [WordPress](https://github.com/jjungmincho/til#wordpress)
 
 ---
 
@@ -381,3 +382,6 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Domain Name](https://github.com/jjungmincho/til/blob/master/web-hosting/domain-name.md)
 - [Hosting](https://github.com/jjungmincho/til/blob/master/web-hosting/hosting.md)
 - [Surge](https://github.com/jjungmincho/til/blob/master/web-hosting/surge.md)
+
+### WordPress
+- [How to embed instagram to page](https://github.com/jjungmincho/til/blob/master/web-hosting/embed-instagram.md)
