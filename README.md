@@ -337,6 +337,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 ### Php
 - [Basic PHP](https://github.com/jjungmincho/til/blob/master/php/basic-php.md)
+- [bloginfo](https://github.com/jjungmincho/til/blob/master/wordpress/bloginfo.md)
 - [What is PHP](https://github.com/jjungmincho/til/blob/master/php/waht-is-php.md)
 
 
@@ -391,5 +392,4 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Surge](https://github.com/jjungmincho/til/blob/master/web-hosting/surge.md)
 
 ### WordPress
-- [bloginfo](https://github.com/jjungmincho/til/blob/master/wordpress/bloginfo.md)
 - [How to embed instagram to page](https://github.com/jjungmincho/til/blob/master/wordpress/embed-instagram.md)
