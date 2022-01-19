@@ -18,6 +18,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [JavaScript](https://github.com/jjungmincho/til#javascript)
 - [Math](https://github.com/jjungmincho/til#math)
 - [Node.js](https://github.com/jjungmincho/til#nodejs)
+- [PHP](https://github.com/jjungmincho/til#php)
 - [Python](https://github.com/jjungmincho/til#python)
 - [Sass](https://github.com/jjungmincho/til#sass)
 - [VS Code](https://github.com/jjungmincho/til#vscode)
@@ -333,6 +334,12 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Runtime](https://github.com/jjungmincho/til/blob/master/nodejs/runtime.md)
 - [version-of-node](https://github.com/jjungmincho/til/blob/master/nodejs/version-of-node.md)
 
+
+### Php
+- [Basic PHP](https://github.com/jjungmincho/til/blob/master/php/basic-php.md)
+- [What is PHP](https://github.com/jjungmincho/til/blob/master/php/waht-is-php.md)
+
+
 ### Python 
 - [Casting](https://github.com/jjungmincho/til/blob/master/python/casting.md)
 - [class](https://github.com/jjungmincho/til/blob/master/python/class.md)
@@ -384,4 +391,5 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Surge](https://github.com/jjungmincho/til/blob/master/web-hosting/surge.md)
 
 ### WordPress
+- [bloginfo](https://github.com/jjungmincho/til/blob/master/wordpress/bloginfo.md)
 - [How to embed instagram to page](https://github.com/jjungmincho/til/blob/master/wordpress/embed-instagram.md)
