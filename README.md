@@ -195,6 +195,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Branch](https://github.com/jjungmincho/til/blob/master/github/branch.md)
 - [Clone projects to local](https://github.com/jjungmincho/til/blob/master/github/clone-projects-to-local.md)
 - [How to commit github using Git Commands](https://github.com/jjungmincho/til/blob/master/github/commit-to-github.md)
+- [Solve contribution activity issue](https://github.com/jjungmincho/til/blob/master/github/contribution-activity-issue.md)
 - [Creating a new file](https://github.com/jjungmincho/til/blob/master/github/create-new-file.md)
 - [Deploying](https://github.com/jjungmincho/til/blob/master/github/deploying.md)
 - [Format](https://github.com/jjungmincho/til/blob/master/github/format.md)
