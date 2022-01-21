@@ -256,7 +256,6 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Image types](https://github.com/jjungmincho/til/blob/master/html/image-types.md)
 - [Inline](https://github.com/jjungmincho/til/blob/master/html/inline.md)
 - [Meta charset = utf-8](https://github.com/jjungmincho/til/blob/master/html/meta-charset-utf-8.md)
-- [Meta tag](https://github.com/jjungmincho/til/blob/master/html/meta-tag.md)
 - [Path](https://github.com/jjungmincho/til/blob/master/html/path.md)
 - [Print](https://github.com/jjungmincho/til/blob/master/html/print.md)
 - [Semantic](https://github.com/jjungmincho/til/blob/master/html/semantic.md)
@@ -400,3 +399,4 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 ### WordPress
 - [How to embed instagram to page](https://github.com/jjungmincho/til/blob/master/wordpress/embed-instagram.md)
+- [Meta tag](https://github.com/jjungmincho/til/blob/master/wordpress/meta-tag.md)
