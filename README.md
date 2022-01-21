@@ -340,6 +340,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Basic PHP](https://github.com/jjungmincho/til/blob/master/php/basic-php.md)
 - [bloginfo](https://github.com/jjungmincho/til/blob/master/php/bloginfo.md)
 - [comments](https://github.com/jjungmincho/til/blob/master/php/comments.md)
+- [echo](https://github.com/jjungmincho/til/blob/master/php/echo.md)
 - [loop](https://github.com/jjungmincho/til/blob/master/php/loop.md)
 - [single](https://github.com/jjungmincho/til/blob/master/php/single.md)
 - [url](https://github.com/jjungmincho/til/blob/master/php/url.md)
