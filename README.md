@@ -325,6 +325,7 @@ TILs are short markdown documents explaining concepts about computer science wit
 
 - [exit](https://github.com/jjungmincho/til/blob/master/nodejs/exit.md)
 - [global](https://github.com/jjungmincho/til/blob/master/nodejs/global.md)
+- [Install](https://github.com/jjungmincho/til/blob/master/nodejs/install.md)
 - [Loading Existing Files](https://github.com/jjungmincho/til/blob/master/nodejs/loading-existing-files.md)
 - [Major difference with js](https://github.com/jjungmincho/til/blob/master/nodejs/major-difference-with-js.md)
 - [Module](https://github.com/jjungmincho/til/blob/master/nodejs/module.md)
