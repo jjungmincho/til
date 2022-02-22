@@ -402,7 +402,8 @@ TILs are short markdown documents explaining concepts about computer science wit
 - [Surge](https://github.com/jjungmincho/til/blob/master/web-hosting/surge.md)
 
 ### WordPress
-- [How to embed instagram to page](https://github.com/jjungmincho/til/blob/master/wordpress/embed-instagram.md)
+- [Custom Admin Menu Icon](https://github.com/jjungmincho/til/blob/master/wordpress/custom-admin-menu-icon.md)
+- [Embed instagram to page](https://github.com/jjungmincho/til/blob/master/wordpress/embed-instagram.md)
 - [esc_url()](https://github.com/jjungmincho/til/blob/master/wordpress/esc_url.md)
 - [Meta tag](https://github.com/jjungmincho/til/blob/master/wordpress/meta-tag.md)
 - [Permalinks](https://github.com/jjungmincho/til/blob/master/wordpress/permalinks.md)
